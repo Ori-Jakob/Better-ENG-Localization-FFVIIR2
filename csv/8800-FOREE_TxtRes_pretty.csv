@@ -1,0 +1,1483 @@
+id,name,text,text_jp
+$C3310_MAIN_0300_0100_00_eln,Elena,"Alright, repeat after me!",じゃあ　復唱して
+$C3310_MAIN_0300_0105_00_skm,<i>Radio</i>,"<br><i>Area 7, 205, 246</i><br>",<br><i>エリア７　２０５　２４６</i><br>
+$C3310_MAIN_0300_0110_00_eln,Elena,"Oh, right, right! ‟The Northern Continent!”",あーそうそう　『北の大陸』
+$C3310_MAIN_0300_0120_00_skm,<i>Radio</i>,<br><i>Roger that</i><br>,<br><i>了解</i><br>
+$C3310_MAIN_0300_0200_00_eln,Elena,"All units, I’ve shared the temple coordinates!",全機　神殿の座標共有しました！
+$C3310_MAIN_0300_0300_00_eln,Elena,"Uh… I did some digging, and…",あの……調べたんですけど
+$C3310_MAIN_0300_0310_00_eln,Elena,This ‟Keystone curse” thing?<br>It’s got some serious credibility!,キーストーンの呪いって<br>けっこう　信憑性高いですよ
+$C3310_MAIN_0300_0400_00_eln,Elena,Anyone who uses it ends up dead!,使った人は死んじゃうんです
+$C3310_MAIN_0300_0500_00_lud,Rude,Wrong.,ちがう
+$C3310_MAIN_0300_0600_00_lud,Rude,"The records say, ‟No one who used the Keystone to enter the temple<br>ever came back out.”",文献にあるのは『キーストーンを使って神殿に入り<br>出てきた者はいない』だ
+$C3310_MAIN_0300_0700_00_eln,Elena,That’s the same thing!,同じですよ！
+$C3310_MAIN_0300_0710_00_eln,Elena,"And yet, the President’s sending everyone in anyway!",それなのに　社長はみんなを行かせるんですよ
+$C3310_MAIN_0300_0800_00_eln,Elena,Isn’t that awful?,ひどくないですか？
+$C3310_MAIN_0300_0900_00_lud,Rude,"The President’s going too, I hear.",社長も行くそうだ
+$C3310_MAIN_0300_1000_00_eln,Elena,What kinda nerve…!,どういう神経
+$C3310_MAIN_0300_1100_00_ren,Reno,"That’s our boss for ya, huh!",さすがだぞ　と
+$C3310_MAIN_0300_1200_00_eln,Elena,"Impressive' my foot—it’s reckless!<br>Not that I hate it, though.",さすがっていうか　無謀ですよ！<br>まあ　嫌いじゃないですけど
+$C3310_MAIN_0300_1300_00_tsu,Tseng,We’re moving out.,出発だ
+$C3310_MAIN_0300_1310_00_tsu,Tseng,We’ll take point and open the temple gates.,我々が先行し　神殿の門を開く
+$C3310_MAIN_0300_1400_00_lud,Rude,Understood.,了解
+$C3310_MAIN_0400_0100_00_vin,Vincent,Looks like they’re headed for the Northern Continent.,連中は　北の大陸に飛ぶようだ
+$C3310_MAIN_0400_0200_00_cid,Cid,"Aw, crap… over there, huh?",あ～　あっちか……
+$C3310_MAIN_0400_0300_00_art,Aerith,Can we make it?,行けそう？
+$C3310_MAIN_0400_0400_00_cid,Cid,"No sweat! My skills are top-tier, baby!",だいじょーぶ　オレ様の腕は特がつく上だ！
+$C3310_MAIN_0400_0500_00_cid,Cid,"Even if they rip my wings off,<br>I’ll plow through those waves and get us there!",たとえ　翼をもがれようとも<br>大波かきわけて　渡ってやろうじゃねえか
+$C3310_MAIN_0400_0600_00_yfi,Yuffie,"That means it’s gonna shake, right?",それって　揺れるってことだよね？
+$C3310_MAIN_0400_0700_00_cid,Cid,"You bet it will!<br>Life’s full of rough waters, kid.",そりゃあな<br>まあ　人生に荒波はつきもんだ
+$C3310_MAIN_0400_0800_00_vin,Vincent,Shinra’s mobilizing the Turks and the army.,神羅はタークスと軍が動く
+$C3310_MAIN_0400_0900_00_vin,Vincent,Better get your affairs in order.,身辺整理をしておくんだな
+$C3310_MAIN_0800_0100_00_ruf,Rufus,It’s almost time.,まもなくだな
+$C3310_MAIN_0800_0200_00_hjo,Hojo,"Personally, I don’t think<br>this temple is the Promised Land.",思うに　目指す神殿は<br>約束の地ではないと思うねえ
+$C3310_MAIN_0800_0300_00_ruf,Rufus,"And your assessment, Professor?",では　博士の見立ては？
+$C3310_MAIN_0800_0400_00_hjo,Hojo,"The prophet’s descent, the blessing of the servants…",予言者の降臨　しもべたちの祝福
+$C3310_MAIN_0800_0500_00_hjo,Hojo,You could call it a turning point in history.,言わば　歴史のターニングポイント
+$C3310_MAIN_0800_0510_00_hjo,Hojo,Let’s just say the temple is the stage for it.,神殿は　その舞台とでも言っておこうか
+$C3310_MAIN_0800_0600_00_tsu,<i>Tseng</i>,<i>Target located.</i>,<i>目標を発見しました</i>
+$C3310_MAIN_0900_0100_00_eln,Elena,Is this really the place?,本当に　ここですか？
+$C3310_MAIN_0900_0200_00_tsu,Tseng,Let’s confirm it.,確かめよう
+$C3310_MAIN_1000_0100_00_red,Red XIII,"Look, look at that!",見て　見てよ！
+$C3310_MAIN_1000_0200_00_yfi,Yuffie,I’m lookin’…,見てる……
+$C3310_MAIN_1000_0300_00_cid,Cid,"Alright, you bastards, raise the sails!",よっしゃ　野郎ども　帆をあげろ！
+$C3310_MAIN_1000_0400_00_yfi,Yuffie,We don’t have any~!,そんなのありませ～ん
+$C3310_MAIN_1000_0410_00_yfi,Yuffie,And I ain’t a bastard~!,あと　野郎じゃありませ～ん！
+$C3310_MAIN_1000_0500_00_cid,Cid,"It’s about the vibe, the vibe!",雰囲気だ　雰囲気！
+$C3310_MAIN_1000_0600_00_cid,Cid,Here we go—setting sail for the open sea!,よっしゃあ　大海原へと漕ぎだすぜ！
+$C3310_MAIN_1000_0700_00_art,Tifa & Aerith,"Aye, aye, sir!",アイアイサー！
+$C3310_MAIN_1050_0100_00_sys,NPC,Will you disembark on this continent?<br>(You won’t be able to return after landing.),この大陸に上陸しますか？<br>（上陸すると戻れなくなります）
+$C3310_MAIN_1050_0200_00_sys,NPC,Yes,はい
+$C3310_MAIN_1050_0300_00_sys,NPC,No,いいえ
+$C3310_MAIN_1100_0100_00_art,Aerith,The air… it’s all restless.,空気　ざわざわしてる
+$C3310_MAIN_1100_0200_00_cid,Cid,"Pushed her a little hard,<br>so I wanna give this baby some maintenance.",ちょこっと無理させちまったから<br>こいつの整備をしておきてえ
+$C3310_MAIN_1100_0300_00_cid,Cid,Go on ahead without me.,先　行っててくれ
+$C3310_MAIN_1100_0400_00_cld,Cloud,You gonna be okay?,大丈夫なのか
+$C3310_MAIN_1100_0500_00_cid,Cid,It’s me we’re talkin’ about!,オレ様だぜ？
+$C3310_MAIN_1150_0100_00_cid,Cid,I’ll fix her up quick and catch up with ya.,さくっと直して　追いかけっからよ
+$C3310_MAIN_1150_0200_00_cid,Cid,"Gotta patch up those wings sometime soon, too.",ぼちぼち　翼も直してやりてえな
+$C3310_MAIN_1160_0100_00_vin,Vincent,Been a while since I last stepped outside. Exhausting.,外出は久しぶりだ　疲れる
+$C3310_MAIN_1160_0200_00_vin,Vincent,Nature’s a formidable foe…,自然は強敵だな……
+$C3310_MAIN_1200_0100_00_blt,Barret,"Man, the Ancients were somethin’ else!",古代種ってのは　すげえな
+$C3310_MAIN_1200_0200_00_red,Red XIII,"Technically, they’re called the Cetra.",正しくは　セトラだよ
+$C3310_MAIN_1200_0500_00_art,Aerith,I’m back.,ただいま
+$C3310_MAIN_1200_0600_00_blt,Barret,"Born of the Planet, speaking with the Planet, opening the Planet.",『星より生まれ　星と語り　星を開く』
+$C3310_MAIN_1200_0610_00_blt,Barret,"And then, returning to the Promised Land.",『そして　約束の地へ帰る』
+$C3310_MAIN_1200_0700_00_blt,Barret,"Supreme happiness, the destined land granted by the Planet.",『至上の幸福　星が与えし定めの地』
+$C3310_MAIN_1200_0800_00_art,Aerith,"No, that’s not it.<br>It’s not the Promised Land.",ううん　ちがう<br>約束の地じゃない
+$C3310_MAIN_1200_0900_00_art,Aerith,Because what’s here is…,だって　ここにあるのは……
+$C3310_MAIN_1200_1000_00_art,Aerith,Sorrow.,悲しみ
+$C3310_MAIN_1200_1100_00_art,Aerith,And anger.,そして　怒り
+$C3310_MAIN_1200_1200_00_tif,Tifa,Calling us?,呼んでる？
+$C3310_MAIN_1200_1300_00_art,Aerith,Yeah.,うん
+$C3310_MAIN_1300_0100_00_blt,Barret,"Greedy sons of bitches, all of ‘em!",まったく　強欲な連中だぜ
+$C3310_MAIN_1400_0100_00_skm,NPC,"Dammit, what the hell’s goin’ on?!",クソ　どうなってんだよ
+$C3310_MAIN_1400_0200_00_skm,NPC,Maybe it’s the Ancients’ curse.,古代種の呪いかもな
+$C3310_MAIN_1400_0300_00_skm,NPC,Don’t say creepy shit like that!,怖いこと言うなよ
+$C3310_MAIN_1500_0100_00_skm,Special Ops Soldier,Who the hell are you guys?!,なんだ　貴様ら
+$C3310_MAIN_1500_0200_00_skm,Special Ops Soldier,Don’t move!,動くな！
+$C3310_MAIN_1600_0100_00_skm,Special Ops Soldier,It’s them! Contact the Turks!,やつらだ　タークスに連絡しろ！
+$C3310_MAIN_1700_0100_00_skm,Special Ops Soldier,Avalanche spotted!,アバランチ発見！
+$C3310_MAIN_1700_0200_00_skm,Special Ops Soldier,Don’t kill the Ancient!,古代種は殺すな
+$C3310_MAIN_1900_0100_00_vin,Vincent,Monsters did this.,モンスターの仕業だな
+$C3310_MAIN_1900_0200_00_cid,Cid,This is one hell of a mess.,こりゃ　ひっでえな
+$C3310_MAIN_1900_0300_00_yfi,Yuffie,"Hey, hey, Aerith and the gang<br>are VIPs here, right?",ねえねえ　エアリスと仲間たちは<br>特別ご招待だよね？
+$C3310_MAIN_1900_0500_00_art,Aerith,Oh… I guess since I’m only half…,そうか　わたし　半分ちがうから……
+$C3310_MAIN_1900_0600_00_art,Aerith,"Sorry, no special treatment.",ごめん　特別待遇ないって
+$C3310_MAIN_1900_0700_00_cid,Cid,"Got carried away with the momentum,<br>but honestly, I ain’t thrilled about goin’ in there.",勢いできちまったが<br>正直　こんなかに入るのは気が進まねえ
+$C3310_MAIN_1900_0800_00_cid,Cid,I’m stayin’ behind.,オレは　残るぜ
+$C3310_MAIN_1900_0900_00_art,Aerith,"Okay, got it.",うん　わかった
+$C3310_MAIN_1900_1000_00_art,Aerith,Thanks for everything so far.<br>You’ve really saved us.,これまで　ありがとう<br>ほんとうに助かっちゃった
+$C3310_MAIN_1900_1100_00_cid,Cid,"Hey, it ain’t goodbye or nothin’.",いや　お別れってわけじゃねえ
+$C3310_MAIN_1900_1200_00_cid,Cid,"You’ll need a ride back, right?",帰りの足がいるだろ？
+$C3310_MAIN_1900_1300_00_cid,Cid,"I’ll be waitin’, so make sure you come back in one piece.",待ってっから　ちゃんと帰ってこい
+$C3310_MAIN_2000_0100_00_cid,Cid,Don’t worry about the trip back.<br>I’ve got her all tuned up.,帰りは心配すんな<br>しっかり整備しといたからよ
+$C3310_MAIN_2000_0200_00_cid,Cid,"Sorry, but the inside just don’t feel like my turf.",悪いな　中はオレのテリトリーって気がしねえんだ
+$C3310_MAIN_2100_0100_00_vin,Vincent,Nothing’s showing up.,なにも出ないぞ
+$C3310_MAIN_2100_0200_00_vin,Vincent,"No expectations, no disappointments.",期待しなければ失望しない
+$C3310_MAIN_2200_0200_00_ruf,Rufus,The Ancient has entered the temple.,古代種が神殿に入った
+$C3310_MAIN_2200_0300_00_hjo,Hojo,"Then he’s with her too, I presume.",となると　あいつも一緒だな
+$C3310_MAIN_2200_0310_00_hjo,Hojo,"Oh, now that’s interesting.",そうか　それはおもしろい
+$C3310_MAIN_2200_0400_00_hjo,Hojo,Excellent.,いいぞ
+$C3310_MAIN_2200_0500_00_ruf,Rufus,"Well, old man?",どうだ　オヤジ
+$C3310_MAIN_2300_0200_00_rch,Black-Cloaked Man,Black… materia…,くろ……まてりあ……
+$C3310_MAIN_2300_0300_00_rch,Black-Cloaked Man,Seph… iroth…,セフィ……ロス……
+$C3310_MAIN_2300_0400_00_tif,Tifa,"Hey, that guy…",ねえ　あの人って……
+$C3310_MAIN_2300_0500_00_cld,Cloud,Sephiroth’s already here.,セフィロスがもう来ている
+$C3310_MAIN_2300_0600_00_cld,Cloud,This is bad. We need to hurry.,まずいな　はやく行こう
+$C3310_MAIN_2400_0100_00_rch,Black-Cloaked Man,My… frien…,マイ……フレ……
+$C3310_MAIN_2400_0200_00_rch,Black-Cloaked Man,Seph… i… roth…,セフィ……ロ……ス
+$C3310_MAIN_2400_0300_00_rch,Black-Cloaked Man,Black… materia…,くろ……まてりあ……
+$C3310_MAIN_2450_0100_00_skm,Special Ops Soldier,Intruders! Grab ‘em!,侵入者だ　捕まえろ！
+$C3310_MAIN_2600_0200_00_yfi,Yuffie,So the Ancients built this place<br>to hide the Black Materia?,古代種は　黒マテリアを隠すために<br>ここを作ったってこと？
+$C3310_MAIN_2600_0300_00_yfi,Yuffie,How much is that Black Materia worth anyway?!,黒マテリアの価値って　どんだけ！
+$C3310_MAIN_2600_0500_00_art,Aerith,The Black Materia’s a secret.<br>Shinra probably doesn’t even know.,黒マテリアのことは　ナイショ<br>神羅は　きっと知らないから
+$C3310_MAIN_2600_0600_00_red,Red XIII,Cait Sith’s talking!,ケット・シーがしゃべってるよ
+$C3310_MAIN_2600_0700_00_cld,Cloud,"Anyway, let’s find it fast.<br>That thing’s ours.",とにかく　はやく見つけよう<br>あれは俺たちがもらう
+$C3310_MAIN_2600_0800_00_blt,Barret,"Hey, hey, what’s goin’ on here?",おいおい　どうなってんだ？
+$C3310_MAIN_2600_0900_00_red,Red XIII,Our common sense might not apply here.,オイラたちの常識　通用しないかも
+$C3310_MAIN_2700_0200_00_skm,Special Ops Soldier,"Hurry, hurry!",急げ　急げ！
+$C3310_MAIN_2700_0300_00_eln,Elena,"More like the ‟Land of the End” than the Promised Land, huh?",約束の地というより　終末の地？
+$C3310_MAIN_2700_0400_00_lud,Rude,Don’t overthink it.,余計なことを考えるな
+$C3310_MAIN_2700_0500_00_eln,Elena,Can’t help it~!,無理ですよ～
+$C3310_MAIN_2700_0600_00_skm,Special Ops Soldier,"Chief Tseng,<br>the Ancient and Avalanche have breached the perimeter.",ツォン主任<br>古代種とアバランチが侵入しています
+$C3310_MAIN_2700_0700_00_eln,Elena,Should we set up an ambush and take ‘em out?,待ち伏せして　やっちゃいますか
+$C3310_MAIN_2700_0800_00_tsu,Tseng,No. The mission comes first.,いや　任務を優先する
+$C3310_MAIN_2700_0900_00_tsu,Tseng,Split into two teams. We’ll confirm whether this is<br>the Promised Land—or something else entirely.,二手に分かれて　ここが約束の地である<br>または　違うという確証を探そう
+$C3310_MAIN_2700_1000_00_tsu,Tseng,"Reno, pair up with Rude.<br>The rest of you, with me.",レノはルードと組め<br>あとは　私といっしょだ
+$C3310_MAIN_2700_1010_00_eln,Elena,"Yes, sir!",はい！
+$C3310_MAIN_2700_1100_00_tsu,Tseng,Reno.,レノ
+$C3310_MAIN_2700_1300_00_tsu,Tseng,Mission takes priority. Understood?,任務が優先だ　いいな
+$C3310_MAIN_2700_1310_00_ren,Reno,"You got it, boss!",はいよ　と
+$C3310_MAIN_2800_0100_00_blt,Barret,This damn temple’s crawlin’<br>with Shinra goons and black-cloaked freaks.,ややこしい神殿には<br>神羅どもと黒マントがうようよ
+$C3310_MAIN_2800_0200_00_blt,Barret,Looks like we’re in for a busy day!,こりゃ　忙しくなりそうだ
+$C3310_MAIN_2800_0300_00_red,Red XIII,"Sephiroth’s here too, isn’t he?",セフィロスもいるんだよね？
+$C3310_MAIN_2800_0400_00_cld,Cloud,Yeah. No doubt about it.,ああ　確実だ
+$C3310_MAIN_2800_0500_00_blt,Barret,I got a bad feelin’ about this…,嫌な予感しかしねえな
+$C3310_MAIN_2800_0600_00_art,Aerith,We’ll figure it out somehow.,そこをなんとか
+$C3310_MAIN_2800_0700_00_art,Aerith,"Chin up, let’s go!",元気出して　行こう
+$C3310_MAIN_2800_0800_00_art,Aerith,"Otherwise, this place<br>will just drag us down.",じゃないと　ここ<br>気持ち　ふさいじゃうから
+$C3310_MAIN_2800_0900_00_tif,Tifa,Got it!,了解！
+$C3310_MAIN_3000_0100_00_red,Red XIII,What happened here…?,なにがあったんだろう
+$C3310_MAIN_3000_0200_00_art,Aerith,Blood…,血……
+$C3310_MAIN_3000_0210_00_art,Aerith,So much blood was spilled.,血が　たくさん流れた
+$C3310_MAIN_3000_0300_00_art,Aerith,Long ago… like a war.,大昔　戦争……みたい
+$C3310_MAIN_3100_0200_00_cld,Cloud,No one’s ever entered the temple and come back alive.,神殿に入って　生きて帰った者はいない
+$C3310_MAIN_3100_0210_00_cld,Cloud,Heard it from Cait Sith.,ケット・シーから聞いた
+$C3310_MAIN_3100_0300_00_yfi,Yuffie,You’re tellin’ us that *now*!?,それを　いま言うか！
+$C3310_MAIN_3100_0400_00_blt,Barret,Probably just rumors. Don’t sweat it.,どうせデマカセだ　気にすんな
+$C3310_MAIN_3200_0200_00_art,Aerith,Are we… upside down?,わたしたち　逆さま？
+$C3310_MAIN_3200_0300_00_cld,Cloud,No. Depends on how you look at it.,いや　考え方次第だ
+$C3310_MAIN_3210_0100_00_skm,Special Ops Soldier,Uwaaaah!,うわあああ！
+$C3310_MAIN_3210_0200_00_yfi,Yuffie,What was that!?,いまのなに？
+$C3310_MAIN_3210_0300_00_blt,Barret,Hell if I know!,知るか
+$C3310_MAIN_3220_0100_00_yfi,Yuffie,Was that the waterfall the Shinra guy just went down?,あれって　さっき神羅兵が流れた滝？
+$C3310_MAIN_3220_0200_00_art,Aerith,"Yeah, looks like it.<br>Wonder how far it goes…",うん　そうだね<br>どこまで続くんだろう
+$C3310_MAIN_3220_0300_00_blt,Barret,Don’t even think about testin’ it!,試そうなんて思うなよ～？
+$C3310_MAIN_3220_0400_00_yfi,Yuffie,"Hahaha, too late~!",ははは　思っちゃう～！
+$C3310_MAIN_3230_0100_00_skm,NPC,We won’t link up with the squad like this!<br>Jump in already!,このままでは　部隊に合流できんぞ<br>さっさと飛び込め！
+$C3310_MAIN_3230_0200_00_skm,NPC,"Let me go at my own pace, damn it!",自分のタイミングで行かせてください！
+$C3310_MAIN_3230_0300_00_skm,NPC,Hiiiieeee!,ひいいいい！
+$C3310_MAIN_3235_0100_00_skm,Special Ops Soldier,There they are! Don’t let ‘em go any further!,いたぞ　これ以上先に行かせるな！
+$C3310_MAIN_3240_0100_00_cld,Cloud,Looks like we’ve gotta jump.,飛ぶしかなさそうだな
+$C3310_MAIN_3240_0200_00_yfi,Yuffie,"You’re kidding, right!?",ウソでしょ？
+$C3310_MAIN_3240_0300_00_blt,Barret,"So it comes to this, huh!?",結局　そうなんのかよ
+$C3310_MAIN_3250_0100_00_yfi,Yuffie,Eeeeek~!,ひえ～～～！
+$C3310_MAIN_3250_0200_00_art,Aerith,"It’s okay, it’s okay~!",だいじょうぶ　だいじょうぶ～！
+$C3310_MAIN_3250_0300_00_blt,Barret,Uoooaah!,うおおおお！
+$C3310_MAIN_3250_0400_00_red,Red XIII,Waaaah!,うわーーー！
+$C3310_MAIN_3260_0050_00_skm,Special Ops Soldier,Hold position here until the Turks give the order!<br>Stay prepped for departure—no slacking!,タークスの指示があるまでここで待機！<br>出発に備えて　各自準備を怠るな
+$C3310_MAIN_3260_0100_00_skm,Special Ops Soldier,"Enemy attack! Everyone, engage!",敵襲　全員でかかれ！
+$C3310_MAIN_3300_0100_00_blt,Barret,What the hell’s happenin’…?,どうなってやがる……
+$C3310_MAIN_3300_0210_00_blt,Barret,That was close!,あぶねえ！
+$C3310_MAIN_3300_0300_00_red,Red XIII,"Feels like the master of a labyrinth, doesn’t it?",迷宮の主って感じだね
+$C3310_MAIN_3300_0400_00_yfi,Yuffie,Wanna eat some Da-chao beans?,ダチャオ豆　食べる？
+$C3310_MAIN_3300_0500_00_blt,Barret,What’re you tryin’ to stir up!?,刺激してどうするよ！
+$C3310_MAIN_3300_0600_00_tif,Tifa,"Hey, focus!",ねえ　集中！
+$C3310_MAIN_3350_0100_00_yfi,Yuffie,We flipping over again!?,また　ひっくり返んの？
+$C3310_MAIN_3350_0200_00_blt,Barret,"Welcome back, huh!?",おかえりなさいってか！
+$C3310_MAIN_3350_0300_00_red,Red XIII,Run!,逃げて！
+$C3310_MAIN_3350_0400_00_art,Aerith,Everyone okay?,みんな　だいじょうぶ？
+$C3310_MAIN_3350_0500_00_cld,Cloud,Let’s move!,行くぞ！
+$C3310_MAIN_3400_0100_00_blt,Barret,Not so fast!,そうはいかねえ！
+$C3310_MAIN_3400_0300_00_tif,Tifa,Cloud!,クラウド！
+$C3310_MAIN_3400_0500_00_art,Aerith,Amazing!,すごい！
+$C3310_MAIN_3400_0600_00_tif,Tifa,That settled it real quick!,スカッと決まっちゃった
+$C3310_MAIN_3400_0700_00_cld,Cloud,Let’s hurry.,急ごう
+$C3320_MAIN_0100_0100_00_yfi,Yuffie,What the heck is this~!?,なんじゃこりゃ～！
+$C3320_MAIN_0100_0300_00_blt,Barret,Can’t even watch this mess!,見てらんねえぜ
+$C3320_MAIN_0100_0400_00_art,Aerith,The Lifestream… it’s angry.,ライフストリーム　怒ってる
+$C3320_MAIN_0100_0500_00_art,Aerith,"Just a hunch, though.",なんとなく　だけど
+$C3320_MAIN_0100_0600_00_tif,Tifa,"Hey, Aerith…<br>Can’t we tell it how we feel?",ねえ　エアリス<br>私たちの気持ち　伝えられないの？
+$C3320_MAIN_0100_0700_00_art,Aerith,"Hmm, maybe?",どうかな
+$C3320_MAIN_0100_0710_00_art,Aerith,"No, wait—I’ll give it a try.",ううん　やってみる
+$C3320_MAIN_0100_0900_00_art,Aerith,I’ve got an image in my head.,イメージ　浮かんだ
+$C3320_MAIN_0100_1200_00_blt,Barret,"Hey, what’s the plan?",おい　どうする？
+$C3320_MAIN_0100_1300_00_cld,Cloud,The Black Materia’s top priority. No one else gets it.,黒マテリアが最優先だ　誰にも渡せない
+$C3320_MAIN_0100_1400_00_cld,Cloud,Let’s move fast.,先を急ごう
+$C3320_MAIN_0100_1500_00_tif,Tifa,But…,でも……
+$C3320_MAIN_0100_1600_00_cld,Cloud,"With Aerith here, we’ll be fine.",エアリスがいれば　大丈夫だ
+$C3320_MAIN_0200_0100_00_skm,Special Ops Soldier,Help me!,助けてくれ！
+$C3320_MAIN_0200_0200_00_skm,Special Ops Soldier,"Dammit, what’s going on!?",クソ　どうなってんだよ
+$C3320_MAIN_0200_0300_00_skm,Special Ops Soldier,Stay sharp!,警戒を怠るな！
+$C3320_MAIN_0205_0100_00_skm,Special Ops Soldier,Enemies! Take ‘em down!,敵だ　取り押さえろ！
+$C3320_MAIN_0210_0100_00_blt,Barret,Damn it!,ちっくしょう！
+$C3320_MAIN_0210_0200_00_blt,Barret,Don’t panic!,慌てんな
+$C3320_MAIN_0210_0300_00_blt,Barret,Keep it together!,落ちついてけ
+$C3320_MAIN_0210_0400_00_tif,Tifa,You okay?,大丈夫？
+$C3320_MAIN_0210_0500_00_tif,Tifa,Let’s take it slow.,ゆっくり行こう
+$C3320_MAIN_0210_0600_00_tif,Tifa,Wait for the right moment.,タイミングをみて
+$C3320_MAIN_0220_0100_00_blt,Barret,Ain’t no way forward like this!,こりゃ　進めねえぞ
+$C3320_MAIN_0220_0200_00_tif,Tifa,Can’t we block it somehow?,なにかで　せき止められないかな
+$C3320_MAIN_0220_0300_00_tif,Tifa,Could we use that?,あれ　使えない？
+$C3320_MAIN_0230_0100_00_cld,Cloud,Run!,走れ！
+$C3320_MAIN_0230_0200_00_blt,Barret,"Hurry, hurry, hurry!",急げ　急げ　急げ！
+$C3320_MAIN_0235_0100_00_skm,Special Ops Soldier,"Damn it, where’d they come from!?",クソ　どっから湧いてきやがった！
+$C3320_MAIN_0240_0100_00_skm,NPC,"Damn, what a place!",ちきしょう　なんて場所だよ
+$C3320_MAIN_0240_0200_00_skm,NPC,"Surprised I’m still alive, honestly.",よく生きてるよ　まったく
+$C3320_MAIN_0240_0300_00_skm,NPC,"Hey, quit yapping and set it up!",おい　無駄口をたたかず設置しろ
+$C3320_MAIN_0400_0050_00_skm,Special Ops Soldier,"Yes, sir—hurrying!",はい　急ぎます
+$C3320_MAIN_0400_0060_00_skm,Special Ops Soldier,Preparations complete!,準備できました！
+$C3320_MAIN_0400_0100_00_skm,Special Ops Soldier,Intruders spotted!,侵入者発見！
+$C3320_MAIN_0400_0200_00_skm,Special Ops Soldier,It’s Avalanche!,アバランチだ！
+$C3320_MAIN_0500_0100_00_skm,Special Ops Soldier,"Forgive me, please!",許してくれ　頼む
+$C3320_MAIN_0500_0200_00_cld,Cloud,Don’t worry.,心配するな
+$C3320_MAIN_0500_0210_00_cld,Cloud,You’re just returning to the Planet.,星に帰るだけだ
+$C3320_MAIN_0500_0300_00_cld,Cloud,Let’s move on.,先を急ごう
+$C3320_MAIN_0500_0400_00_ren,Reno,"Guess I’ll butt in, huh!",邪魔するぞ　と
+$C3320_MAIN_0500_0500_00_blt,Barret,Perfect timing!,ちょうどいい
+$C3320_MAIN_0500_0600_00_blt,Barret,Time to settle a big ol’ score!,でっけえ借り　返してもらうぜ！
+$C3320_MAIN_0500_0700_00_lud,Rude,We’re the ones owed here.,貸しているのは　こっちだ
+$C3320_MAIN_0500_0800_00_lud,Rude,But payment can wait.,だが　返済は後日でいい
+$C3320_MAIN_0500_1000_00_ren,Reno,"No overtime today, folks!",今日は残業なしだぞ　と
+$C3320_MAIN_0500_1100_00_blt,Barret,"Wait, you bastards!",待ちやがれ！
+$C3320_MAIN_0500_1300_00_tif,Tifa,No way…,そんな……
+$C3320_MAIN_0600_0200_00_yfi,Yuffie,"Oh, she’s awake!",あっ　起きた！
+$C3320_MAIN_0600_0300_00_art,Aerith,Where’s everyone else?,みんなは？
+$C3320_MAIN_0600_0400_00_art,Aerith,I messed up…,失敗しちゃった
+$C3320_MAIN_0600_0500_00_yfi,Yuffie,"First time, right?<br>Then it can’t be helped!",はじめてでしょ？<br>じゃあ　仕方ないよ
+$C3320_MAIN_0600_0600_00_yfi,Yuffie,"If you fail, just train harder!",失敗したら　修行あるのみ！
+$C3320_MAIN_0600_0700_00_red,Red XIII,We’ll pitch in too—let’s do this!,オイラたちも手伝うよ　がんばろ
+$C3320_MAIN_0600_0800_00_art,Aerith,"Yeah, you’re right. Training it is!",うん　そうだね　修行だね
+$C3320_MAIN_0700_0100_00_art,Aerith,"Cloud and the others… they’re okay, right?",クラウドたち　大丈夫だよね
+$C3320_MAIN_0700_0200_00_red,Red XIII,As long as Cloud keeps it together.,クラウドが　しっかりしていればね
+$C3320_MAIN_0700_0300_00_yfi,Yuffie,Tifa just needs to yell at him more!,ティファが　もっと叱ればいいんだよ
+$C3320_MAIN_0700_0310_00_yfi,Yuffie,‟Shape up~!” Like that!,しっかりしろ～って！
+$C3320_MAIN_0800_0100_00_yfi,Yuffie,What’s that?,なんだろ？
+$C3320_MAIN_0800_0300_00_red,Red XIII,This is…,これって……
+$C3320_MAIN_0800_0400_00_art,Aerith,It’s like it’s teaching us<br>how to get along with the Lifestream.,ライフストリームと仲良くなる方法<br>教えてくれるみたい
+$C3320_MAIN_0800_0500_00_art,Aerith,Thank you.,ありがとう
+$C3320_MAIN_0910_0100_00_yfi,Yuffie,Whoa~!,おお～！
+$C3320_MAIN_0920_0700_00_yfi,Yuffie,"Wait, are we short on Lifestream?",ありゃ　ライフストリームが足りない？
+$C3320_MAIN_0920_0800_00_yfi,Yuffie,Gotta gather more of the Planet’s power!,星の力　もっと集めないと
+$C3320_MAIN_0920_0900_00_yfi,Yuffie,"We need to stock up more, huh!",もっと溜めないと　ダメだね
+$C3320_MAIN_0920_1000_00_red,Red XIII,We’ll need more spiritual energy.,もっと　精神エネルギーが必要だね
+$C3320_MAIN_0920_1100_00_red,Red XIII,Let’s search for the Lifestream.,ライフストリームを探そう
+$C3320_MAIN_0920_1200_00_red,Red XIII,"This isn’t enough, it seems.",これじゃあ　足りないみたい
+$C3320_MAIN_1000_0100_00_yfi,Yuffie,So cool~!,すっご～い
+$C3320_MAIN_1000_0300_00_red,Red XIII,Maybe we should take a break.,ちょっと休んだほうがいいかもね
+$C3320_MAIN_1000_0400_00_yfi,Yuffie,"Yeah, yeah!",そうそう
+$C3320_MAIN_1000_0500_00_yfi,Yuffie,Big Sis is our only hope~!,おねーさまだけが頼りなんだから～！
+$C3320_MAIN_1000_0600_00_art,Aerith,"Okay, just a little break then.",じゃあ　ちょっとだけ
+$C3320_MAIN_1200_0200_00_blt,Barret,What’s that?,なんだ？
+$C3320_MAIN_1200_0300_00_blt,Barret,This place ain’t sittin’ right with me.,落ち着かねえ場所だな
+$C3320_MAIN_1200_0400_00_tif,Tifa,"But it opened a path, didn’t it?",でも　道ができたね
+$C3320_MAIN_1200_0500_00_blt,Barret,Now what’s this!?,今度はなんだよ！
+$C3320_MAIN_1200_0600_00_cld,Cloud,"Whatever it is, we take it down.",なんだろうが　倒す
+$C3320_MAIN_1200_0610_00_cld,Cloud,Better than no path at all.,道がないより　ずっといい
+$C3320_MAIN_1210_0100_00_cld,Cloud,Let’s go.,行こう
+$C3320_MAIN_1220_0100_00_blt,Barret,"Man, it’s gettin’ wild again!",こりゃまた　大荒れだな
+$C3320_MAIN_1220_0200_00_tif,Tifa,Over there!,あそこ！
+$C3320_MAIN_1220_0300_00_blt,Barret,Those bastards…!,あいつら……！
+$C3320_MAIN_1225_0090_00_skm,Special Ops Soldier,We’re holding position here.,我々は　ここで待機だ
+$C3320_MAIN_1225_0100_00_skm,Special Ops Soldier,"Secure the footing, quick!",足場の確保を急げ！
+$C3320_MAIN_1225_0200_00_skm,Special Ops Soldier,That thing!,あれを！
+$C3320_MAIN_1225_0400_00_blt,Barret,This is some crazy shit…,とんでもねえな　こりゃ……
+$C3320_MAIN_1230_0100_00_blt,Barret,What’s the move?,どうするよ？
+$C3320_MAIN_1230_0200_00_tif,Tifa,Could we drop that and cross over?,あれを落として　渡れないかな
+$C3320_MAIN_1235_0100_00_skm,Special Ops Soldier,This spot’s dangerous. Link up with the vanguard!,ここは危険だ　先行部隊と合流するぞ
+$C3320_MAIN_1240_0100_00_blt,Barret,Again!?,またかよ
+$C3320_MAIN_1241_0100_00_blt,Barret,Still ain’t enough!,まだ足りねえな
+$C3320_MAIN_1242_0100_00_blt,Barret,Can’t we use that?,あれ　使えんじゃねえか？
+$C3320_MAIN_1242_0200_00_tif,Tifa,Maybe there’s a way. Let’s check it out.,どうにかできないかな　調べてみよう
+$C3320_MAIN_1243_0100_00_tif,Tifa,Can’t we break that somehow?,あれ　なんとか壊せないかな
+$C3320_MAIN_1243_0150_00_blt,Barret,What’s that?,なんだ？
+$C3320_MAIN_1243_0200_00_blt,Barret,Let’s smash it with this sucker!,こいつに　ぶっ壊させようぜ！
+$C3320_MAIN_1244_0100_00_blt,Barret,Piece of cake!,ちょろいもんだ！
+$C3320_MAIN_1244_0200_00_tif,Tifa,But we still need to break that.,でもあれ　壊さないと
+$C3320_MAIN_1244_0300_00_blt,Barret,No choice—back to square one!,仕方ねえ　やり直しだ！
+$C3320_MAIN_1244_0400_00_blt,Barret,"Anyway, we just gotta beat this bastard<br>till it’s wobbling, right?",とにかく　この野郎を<br>フラフラにしちまえばいいんだよな？
+$C3320_MAIN_1245_0100_00_blt,Barret,Nailed it!,うまくいったぜ！
+$C3320_MAIN_1246_0100_00_blt,Barret,"Alright, let’s drop it quick!",よーし　さっさと落としちまおうぜ
+$C3320_MAIN_1250_0100_00_blt,Barret,Huh?,あん？
+$C3320_MAIN_1250_0200_00_tif,Tifa,Guess it worked out?,結果オーライかな
+$C3320_MAIN_2100_0300_00_lud,Rude,No end to this.,キリがない
+$C3320_MAIN_2100_0400_00_ren,Reno,"You guys are relentless, huh!",おまえらしつこいぞ　と
+$C3320_MAIN_2200_0100_00_blt,Barret,"Well, ain’t this a front-row seat!",こりゃいい　高みの見物といくか
+$C3320_MAIN_2200_0200_00_cld,Cloud,Time’s short. Let’s take ‘em all out.,時間が惜しい　まとめて倒そう
+$C3320_MAIN_2200_0300_00_blt,Barret,"Huh? Fine, whatever!",あん？　しゃあねえな
+$C3320_MAIN_2250_0050_00_lud,Rude,Avalanche…,アバランチ……
+$C3320_MAIN_2250_0100_00_blt,Barret,"You’re next, punks!",てめえらは　あとだ！
+$C3320_MAIN_2250_0200_00_lud,Rude,"Sure, let’s clear the appetizers first.",ああ　前菜から片付けるとしよう
+$C3320_MAIN_2300_0100_00_tif,Tifa,Thanks!,ありがとう
+$C3320_MAIN_2300_0200_00_ren,Reno,"Rude, you’re so cool~!",ルード　かっこいい～！
+$C3320_MAIN_2300_0300_00_cld,Cloud,Outta my way!,邪魔だ！
+$C3320_MAIN_2300_0500_00_ren,Reno,Not bad!,たいしたもんだ
+$C3320_MAIN_2300_0600_00_lud,Rude,"Partner, do the usual.",相棒　いつもの頼む
+$C3320_MAIN_2300_0700_00_ren,Reno,Don't mess with the Turks!,タークス　なめんなよ
+$C3320_MAIN_2350_0100_00_ren,Reno,"This guy's a miscalculation, huh.",こいつは誤算だぞ　と
+$C3320_MAIN_2350_0500_00_ren,Reno,I'll show ya what I’ve got!,見せてやるぞ　と
+$C3320_MAIN_2350_0600_00_tif,Tifa,Cloud!,クラウド！
+$C3320_MAIN_2350_0700_00_ren,Reno,"Hey, partner!",よう　相棒
+$C3320_MAIN_2350_0800_00_lud,Rude,Don't underestimate the Turks.,タークスを　なめるなよ
+$C3320_MAIN_2400_0200_00_blt,Barret,Gotta punch you once for that!,てめえは一発　ぶん殴っておかねえとな
+$C3320_MAIN_2400_0300_00_lud,Rude,Just one punch?,一発でいいのか？
+$C3320_MAIN_2400_0400_00_blt,Barret,Hell yeah!,おうよ
+$C3320_MAIN_2400_0500_00_blt,Barret,One punch’ll finish it!,一発で終わりだ！
+$C3320_MAIN_2400_0900_00_lud,Rude,Nice catch.,ナイスキャッチ
+$C3320_MAIN_2400_1100_00_blt,Barret,Uwaaaaah!,うわああああ！
+$C3320_MAIN_2400_1200_00_art,Aerith,Everyone!,みんな！
+$C3320_MAIN_2400_1300_00_art,Aerith,We’re together again~,会えた～
+$C3320_MAIN_2400_1400_00_tif,Tifa,Thank goodness you’re safe.,よくぞ　ご無事で
+$C3320_MAIN_2400_1500_00_yfi,Yuffie,"It was seriously rough, y’know!",ホント　大変だったんだから
+$C3320_MAIN_2500_0100_00_art,Aerith,Break’s over!,休憩　おしまい
+$C3320_MAIN_2500_0200_00_red,Red XIII,You good already?,もういいの？
+$C3320_MAIN_2500_0300_00_art,Aerith,"Yeah, I’m worried about Cloud and the others.",うん　クラウドたち　心配だし
+$C3320_MAIN_2510_0200_00_art,Aerith,Watch the fruits of my training!,修行の成果　見てて
+$C3320_MAIN_2520_0100_00_yfi,Yuffie,Huh? Why’s that?,えっ　なんで？
+$C3320_MAIN_2520_0200_00_yfi,Yuffie,"Those jerks did this, huh? I’ll rip ‘em apart!",アイツらのせいか～　ひっぺがしてやる！
+$C3320_MAIN_2525_0100_00_yfi,Yuffie,"Alrighty, then let’s head back and do it again!",よ～し　そんじゃあ　戻ってやり直しだね
+$C3320_MAIN_2540_0100_00_red,Red XIII,Look!,見て！
+$C3320_MAIN_2540_0200_00_art,Aerith,Cloud!,クラウド！
+$C3320_MAIN_2540_0300_00_yfi,Yuffie,"Cloud, Tifa!",クラウド　ティファ！
+$C3320_MAIN_2540_0400_00_art,Aerith,"It’s okay, we’re still connected.",だいじょうぶ　つながってるよ
+$C3320_MAIN_2540_0500_00_art,Aerith,Let’s find a way.,道　探そう
+$C3320_MAIN_2600_0100_00_eln,Elena,"The seniors are taking their sweet time, huh.",先輩たち　遅いですね
+$C3320_MAIN_2600_0200_00_tsu,Tseng,Indeed. But we’re moving out now.,ああ　だがもう行くぞ
+$C3320_MAIN_2600_0300_00_eln,Elena,Huh?,えっ？
+$C3320_MAIN_2600_0400_00_tsu,Tseng,Are you uneasy with just me?,私だけでは不安か
+$C3320_MAIN_2600_0500_00_eln,Elena,Not at all!,とんでもありません
+$C3320_MAIN_2600_0510_00_eln,Elena,"No unease, no complaints—<br>heck, I’m practically a fan!",不安も不満もなくて<br>なんなら　ファンです！
+$C3320_MAIN_2600_0600_00_eln,Elena,It’s an honor! I’m thrilled!,光栄です　うれしいです！
+$C3320_MAIN_2600_0700_00_eln,Elena,"Ah, wait for meeee!",あっ　待ってくださーい！
+$C3320_MAIN_2700_0100_00_tsu,Tseng,Pay it no mind. We’re going.,構うな　行くぞ
+$C3320_MAIN_2700_0200_00_yfi,Yuffie,Hold it right there!,待ちやがれい！
+$C3320_MAIN_2700_0300_00_yfi,Yuffie,The cowards are running away~!,卑怯者が逃げていく～！
+$C3320_MAIN_2700_0400_00_eln,Elena,"Chief, if we run, they’ll look down on us.",主任　逃げたらナメられます
+$C3320_MAIN_2700_0500_00_yfi,Yuffie,Now that’s more like it!,そうこなくっちゃ！
+$C3320_MAIN_2700_0600_00_eln,Elena,Didn’t you see the flag at the entrance?,入口の旗　見なかった？
+$C3320_MAIN_2700_0610_00_eln,Elena,The Promised Land is under Shinra’s control now.,約束の地は　神羅が管理するから
+$C3320_MAIN_2700_0700_00_eln,Elena,Even the Ancients will have to fall in line.,たとえ古代種でも従ってもらわなくちゃ
+$C3320_MAIN_2700_0800_00_tsu,Tseng,Where are the others?,ほかの連中はどこだ？
+$C3320_MAIN_2700_0900_00_eln,Elena,Lost? Stranded?,はぐれた？　迷子？
+$C3320_MAIN_2700_1000_00_red,Red XIII,"If it’s about numbers, we’ve got the advantage.",頭数なら　こっちが多い
+$C3320_MAIN_2700_1100_00_eln,Elena,"Oh, didn’t you know?<br>The Chief and I are the ultimate duo!",あら　ご存知ない？<br>主任とわたしが最強コンビだってこと！
+$C3320_MAIN_2700_1200_00_tsu,Tseng,Do not kill the Ancient.,古代種は殺すな
+$C3320_MAIN_2700_1300_00_eln,Elena,I’ll do my best.,努力します
+$C3320_MAIN_2750_0100_00_tsu,Tseng,"Elena, can you handle it?",イリーナ　やれるな？
+$C3320_MAIN_2750_0200_00_eln,Elena,I’ve got this!,いけます！
+$C3320_MAIN_2800_0200_00_yfi,Yuffie,Give it up already!,観念しろい！
+$C3320_MAIN_2800_0300_00_eln,Elena,Chief!,主任！
+$C3320_MAIN_2800_0400_00_eln,Elena,Go on ahead!,行ってください
+$C3320_MAIN_2800_0500_00_eln,Elena,Sit!,おすわり！
+$C3320_MAIN_2800_0700_00_eln,Elena,"In the name of the Turks,<br>I won’t let you through—no way!",タークスの名にかけて<br>通さない　絶対！
+$C3320_MAIN_2800_0800_00_blt,Barret,Uwaaaaah!,うわああああ！
+$C3320_MAIN_2800_0900_00_art,Aerith,Everyone!,みんな！
+$C3320_MAIN_2800_1000_00_art,Aerith,We’re together again~,会えた～
+$C3320_MAIN_2800_1100_00_tif,Tifa,Thank goodness you’re safe.,よくぞ　ご無事で
+$C3320_MAIN_2800_1200_00_yfi,Yuffie,"It was seriously rough, y’know!",ホント　大変だったんだから
+$C3320_MAIN_2800_1300_00_art,Aerith,Cloud!,クラウド！
+$C3320_MAIN_2800_1500_00_cld,Cloud,No need to grieve.,悲しむことはない
+$C3320_MAIN_2800_1600_00_cld,Cloud,They’re just returning to the planet.,ただ　星に帰るだけだ
+$C3320_MAIN_2800_1700_00_tif,Tifa,Can we stop now?,もう　やめよう？
+$C3320_MAIN_2800_1800_00_blt,Barret,One of the Turks went ahead already.<br>We gotta hurry too!,タークスがひとり　先行してやがる<br>オレたちも急ごうぜ
+$C3320_MAIN_2800_1900_00_cld,Cloud,"Yeah, you’re right.",ああ　そうだな
+$C3320_MAIN_2800_2000_00_vin,Vincent,A Turk’s worth lies in staying alive.,生きてこその　タークスだ
+$C3330_MAIN_0100_0100_00_tsu,Tseng,"Judging by its structure, this ruin is a fortress.",構造からして　この遺跡は砦だ
+$C3330_MAIN_0100_0200_00_tsu,Tseng,Traces of combat are scattered throughout.,散見される戦闘の痕跡
+$C3330_MAIN_0100_0210_00_tsu,Tseng,Who were the Ancients’ enemies? Monsters?,古代種の敵は誰だ　モンスターか？
+$C3330_MAIN_0100_0300_00_sep,Sephiroth,"No, foolish humanity.",いや　愚かな人類だ
+$C3330_MAIN_0100_0400_00_sep,Sephiroth,"Fearing and envying the Ancients’ power,<br>humanity slaughtered them.",古代種の力を恐れ<br>妬んだ人類が　古代種を虐殺した
+$C3330_MAIN_0100_0600_00_cld,Cloud,Sephiroth…,セフィロス……
+$C3330_MAIN_0100_0700_00_art,Aerith,Tseng!,ツォン！
+$C3330_MAIN_0100_0800_00_sep,Sephiroth,No need to grieve.,悲しむことはない
+$C3330_MAIN_0100_0810_00_sep,Sephiroth,They’re just returning to the planet.,ただ　星に帰るだけだ
+$C3330_MAIN_0100_0900_00_sep,Sephiroth,We’ll meet again.,また　会える
+$C3330_MAIN_0200_0100_00_art,Aerith,Tseng!,ツォン！
+$C3330_MAIN_0200_0200_00_tsu,Tseng,Are you unharmed?,無事か？
+$C3330_MAIN_0200_0300_00_art,Aerith,Worried about me right now?,わたしの心配してる場合？
+$C3330_MAIN_0200_0400_00_tsu,Tseng,One thing—,ひとつ──
+$C3330_MAIN_0200_0500_00_tsu,Tseng,Tell me.,教えてくれ
+$C3330_MAIN_0200_0510_00_tsu,Tseng,Is this the Promised Land?,ここは　約束の地なのか？
+$C3330_MAIN_0200_0600_00_art,Aerith,"No, it’s not. I’m sure it’s not.",ちがう　きっとちがう
+$C3330_MAIN_0200_0700_00_tsu,Tseng,"I see. Not it, then.",そうか　ちがうか
+$C3330_MAIN_0200_0800_00_art,Aerith,"You believe me just like that, huh.",すぐ　信じるね
+$C3330_MAIN_0200_1000_00_art,Aerith,"Sometimes… you were kind, weren’t you?",ときどき　やさしかったよね
+$C3330_MAIN_0200_1100_00_tsu,Tseng,This pedestal is the key…<br>It won’t react unless you’re an Ancient.,この台座が鍵だ……<br>古代種でなければ反応しない
+$C3330_MAIN_0200_1200_00_art,Aerith,Don’t move!,動かないで！
+$C3330_MAIN_0200_1300_00_tsu,Tseng,A report… to the company.,社に……報告だ
+$C3330_MAIN_0200_1400_00_cld,Cloud,"Aerith, take a look.",エアリス　見てくれ
+$C3330_MAIN_0300_0100_00_cld,Cloud,Can you read it?,読めるか？
+$C3330_MAIN_0300_0200_00_art,Aerith,"‟O tranquil warriors,<br> gaze upon yourselves once more.”",『穏やかなる戦士たちよ<br>　いまいちど　己を見つめよ』
+$C3330_MAIN_0300_0210_00_art,Aerith,"‟The tracks you’ve carved, stained red,<br> shall become your sustenance.”",『刻みし轍は　赤く染まり<br>　そなたの糧とならん』
+$C3330_MAIN_0300_0300_00_art,Aerith,"‟Never, ever forget your anger.”",『ゆめゆめ　怒りを忘れることなかれ』
+$C3330_MAIN_0300_0400_00_blt,Barret,So we’re supposed to go in there?,あそこに入れってことか？
+$C3330_MAIN_0300_0500_00_art,Aerith,"Yeah, one by one.<br>It’s a trial for each of us.",うん　ひとりずつ<br>試練を受けるの
+$C3330_MAIN_0300_0600_00_tif,Tifa,Looks like Cloud doesn’t have to go.,クラウドは　行かなくていいみたい
+$C3330_MAIN_0300_0700_00_yfi,Yuffie,No fair!,ズルい！
+$C3330_MAIN_0300_0800_00_cld,Cloud,I’ll wait here. Hurry up.,俺はここで待つ　急いでくれ
+$C3330_MAIN_0300_0900_00_blt,Barret,"If we gotta go, let’s get it over with!",行くしかねえなら　さっさと行くぜ
+$C3330_MAIN_0300_1000_00_blt,Barret,"See ya later, then!",そんじゃあ　あとでな
+$C3330_MAIN_0310_0100_00_blt,Barret,‟Don’t forget your anger”?<br>Don’t need to tell me twice!,怒りを忘れるなって？<br>そんなの　言われるまでもねえ
+$C3330_MAIN_0310_0200_00_blt,Barret,Testing my anger? They’re underestimating me!,オレの怒りを試すなんて　なめられたもんだぜ
+$C3330_MAIN_0310_0300_00_tif,Tifa,Cloud…<br>he’s been acting strange since we got to the temple.,クラウド……<br>神殿に来てから　変だよね
+$C3330_MAIN_0310_0400_00_tif,Tifa,"It’s like…<br>No, never mind.",なんだか……<br>ううん　なんでもない
+$C3330_MAIN_0310_0500_00_red,Red XIII,"We’re splitting up from here, huh.",こっからは別々だね
+$C3330_MAIN_0310_0600_00_red,Red XIII,"Feels a little daunting, maybe.",ちょっと心細いかも
+$C3330_MAIN_0310_0700_00_yfi,Yuffie,"Compared to ninja training, this is a piece of cake~!",シノビの修行に比べたら　こんなのラクショ～！
+$C3330_MAIN_0310_0800_00_yfi,Yuffie,Wanna bet some materia on who gets back first?,だれが最初に帰ってくるか　マテリア賭けない？
+$C3330_MAIN_0310_0900_00_cld,Cloud,I don’t need a trial.,俺に試練は必要ない
+$C3330_MAIN_0310_1000_00_cld,Cloud,Make it quick.,早くしてくれ
+$C3330_MAIN_0320_0100_00_art,Aerith,This is…,これって……
+$C3330_MAIN_0400_0200_00_red,Red XIII,It’s not just an illusion.,ただの幻覚じゃないや
+$C3330_MAIN_0450_0100_00_skm,Security Guard,Test subject located!,実験体　発見！
+$C3330_MAIN_0450_0200_00_skm,Security Guard,Over here!,こっちだ
+$C3330_MAIN_0450_0300_00_skm,Security Guard,Capture it!,捕獲する！
+$C3330_MAIN_0600_0100_00_red,Red XIII,This place…,ここは……
+$C3330_MAIN_0700_0090_00_skm,Security Guard,Stay still!,おとなしくしろ！
+$C3330_MAIN_0700_0200_00_hjo,Hojo,"Hey, hey, this is a valuable sample.<br>Handle it with care, will you?",おいおい　貴重なサンプルだ<br>丁寧に扱ってくれよ
+$C3330_MAIN_0800_0100_00_hjo,Hojo,"Come on, Number 13, this way.",さあ　１３番　こっちだ
+$C3330_MAIN_0900_0100_00_hjo,Hojo,"Alright, good!<br>Hold it down tight.",よし　いいぞ！<br>しっかり押さえてろよ
+$C3330_MAIN_0900_0300_00_hjo,Hojo,"Red fur, the thirteenth rare specimen.",赤い体毛　１３番目の稀少種実験体
+$C3330_MAIN_0900_0400_00_hjo,Hojo,That’s right.,そうだな
+$C3330_MAIN_0900_0410_00_hjo,Hojo,"Starting today, you’re ‘Red XIII.’",おまえは今日から『レッドXIII』だ
+$C3330_MAIN_0900_0500_00_hjo,Hojo,Shall we begin?,始めようか
+$C3330_MAIN_0900_0700_00_hjo,Hojo,"Move, and it’ll fail.",動くと失敗するぞ
+$C3330_MAIN_1100_0100_00_tif,Tifa,Cloud?,クラウド？
+$C3330_MAIN_1200_0100_00_tif,Tifa,No way…,そんな……
+$C3330_MAIN_1210_0100_00_tif,Tifa,Wait!,待って！
+$C3330_MAIN_1300_0100_00_tif,Tifa,Papa…?,パパ……？
+$C3330_MAIN_1300_0200_00_tif,Tifa,"No, not the mountain!",ダメ　山はダメ！
+$C3330_MAIN_1600_0100_00_tif,Tifa,Papa!,パパ！
+$C3330_MAIN_1600_0300_00_tif,Tifa,I won’t forgive them.,許さない
+$C3330_MAIN_1600_0400_00_tif,Tifa,"Sephiroth, SOLDIER…",セフィロス　ソルジャー……
+$C3330_MAIN_1600_0410_00_tif,Tifa,"The reactor, Shinra, all of it…",魔晄炉　神羅　ぜんぶ……
+$C3330_MAIN_1600_0500_00_tif,Tifa,I hate it all!,ぜんぶ　大キライ！
+$C3330_MAIN_1800_0100_00_yfi,Yuffie,"Not scared, not scared…",こわくない　こわくない……
+$C3330_MAIN_2000_0100_00_snn,<i>????</i>,"<i>Senior Yuffie, ‘act like a cat in someone else’s house,’ right?</i>",<i>ユフィ先輩　『他人の家では猫かぶれ』だよ</i>
+$C3330_MAIN_2000_0150_00_yfi,Yuffie,Sonon…,ソノン……
+$C3330_MAIN_2000_0200_00_snn,<i>Sonon</i>,"<i>Senior, this time, be cautious.<br>We should avoid unnecessary fights.</i>",<i>先輩　今度こそ慎重に<br>無用な戦いは避けたい</i>
+$C3330_MAIN_2000_0300_00_snn,<i>Sonon</i>,"<i>Senior, anything left undone?<br>There’s no turning back now.</i>",<i>先輩　やり残したことはないか？<br>もう後戻りはできないぞ</i>
+$C3330_MAIN_2000_0400_00_snn,<i>Sonon</i>,"<i>Senior, survive and fight—</i>",<i>先輩　生き延びて　戦え――</i>
+$C3330_MAIN_2000_0500_00_yfi,Yuffie,I won’t lose!,負けないから！
+$C3330_MAIN_2100_0100_00_snn,????,Senior.,先輩
+$C3330_MAIN_2100_0200_00_yfi,Yuffie,Sonon?,ソノン？
+$C3330_MAIN_2100_0400_00_ner,Nero,"Since you didn’t come for him,<br>I’ve been playing with him instead.",君が迎えに来ないから<br>ボクが遊んであげてるんだ
+$C3330_MAIN_2200_0100_00_blt,Barret,What the hell’s goin’ on here?,どうなってんだ　こりゃ？
+$C3330_MAIN_2250_0100_00_blt,Barret,"Corel, huh?",コレルか
+$C3330_MAIN_2250_0200_00_blt,Barret,Then that means up ahead is…,ってことは　この先は……
+$C3330_MAIN_2280_0100_00_mma,NPC,"Hey, Barret, you’re back?",よう　バレット帰ったのか？
+$C3330_MAIN_2280_0200_00_mma,NPC,How’s the reactor holdin’ up?,魔晄炉の調子はどうだった？
+$C3330_MAIN_2280_0300_00_mma,NPC,Mina’s waitin’ for ya.,ミーナが待ってるぜ
+$C3330_MAIN_2280_0400_00_mma,NPC,Hurry home and wash off that sweat.,はやく家に帰って　汗流しな
+$C3330_MAIN_2280_0500_00_mfa,NPC,"Barret, good work out there.",バレット　おつかれさま
+$C3330_MAIN_2280_0600_00_mfa,NPC,"Thanks to you, the village’ll thrive.",あんたのおかげで　村が豊かになるよ
+$C3330_MAIN_2280_0700_00_mfa,NPC,"Livin’ with a reactor sure is somethin’, huh?",魔晄炉がある暮らしってのは<br>いいもんだねえ
+$C3330_MAIN_2280_0800_00_mfa,NPC,"Barret, good work.",バレット　おつかれさま
+$C3330_MAIN_2300_0100_00_min,Mina,Welcome back.,おかえりなさい
+$C3330_MAIN_2300_0200_00_min,Mina,What’s wrong? You’ve got a weird look on your face.,どうしたの　変な顔して
+$C3330_MAIN_2300_0300_00_blt,Barret,Mina!,ミーナ！
+$C3330_MAIN_2300_0400_00_min,Mina,What’s with the sudden shout?,いきなり　なに？
+$C3330_MAIN_2300_0500_00_min,Mina,"Come on, you’re tired, right? Get inside.",ほら疲れたでしょ　入って
+$C3330_MAIN_2300_0600_00_blt,Barret,Yeah.,ああ
+$C3330_MAIN_2400_0100_00_blt,Barret,Mina?,ミーナ？
+$C3330_MAIN_2400_0110_00_blt,Barret,Mina…,ミーナ……
+$C3330_MAIN_2400_0200_00_blt,Barret,Mina!,ミーナ！
+$C3330_MAIN_2500_0100_00_blt,Barret,Mina!,ミーナ！
+$C3330_MAIN_2500_0200_00_blt,Barret,"Mina, where are you?!",ミーナ　どこだ！
+$C3330_MAIN_2500_0300_00_blt,Barret,Mina…,ミーナ……
+$C3330_MAIN_2500_0500_00_blt,Barret,Damn it…!,くっそ……！
+$C3330_MAIN_2500_0600_00_blt,Barret,Uwooooh!,うおおおお！
+$C3330_MAIN_2600_0100_00_blt,Barret,Mina!,ミーナ！
+$C3330_MAIN_2600_0200_00_blt,Barret,"No way… Don’t go, stay here!",そんな……ダメだ　いくな！
+$C3330_MAIN_2600_0210_00_blt,Barret,"Mina, please don’t leave me.",ミーナ　いかないでくれ
+$C3330_MAIN_2800_0100_00_mma,Announcement,"Next stop, Sector 4 Slums, Sector 4 Slums.",次は四番街スラム　四番街スラムです
+$C3330_MAIN_2800_0300_00_efa,Ifalna,It’ll be okay.,大丈夫だからね
+$C3330_MAIN_2800_0400_00_art,Aerith,Yeah…,うん……
+$C3330_MAIN_2800_0500_00_art,Aerith,Mom…,お母さん……
+$C3330_MAIN_2900_0100_00_efa,<i>Ifalna</i>,"<i>Aerith, how about a little adventure?</i>",<i>エアリス　ちょっと冒険してみない？</i>
+$C3330_MAIN_2900_0200_00_art,<i>Aerith</i>,<i>What are we gonna do?</i>,<i>なにをするの？</i>
+$C3330_MAIN_2900_0300_00_efa,<i>Ifalna</i>,<i>We’re getting out of here.</i>,<i>ここから　出るの</i>
+$C3330_MAIN_2900_0310_00_efa,<i>Ifalna</i>,<i>We’ll leave and breathe the outside air.</i>,<i>出て　外の空気を吸いに行くの</i>
+$C3330_MAIN_2900_0400_00_art,<i>Aerith</i>,"<i>If we breathe the outside air, will you get better, Mom?<br>No more shots?</i>",<i>外の空気を吸ったら　お母さんは元気になる？<br>注射もしない？</i>
+$C3330_MAIN_2900_0500_00_efa,<i>Ifalna</i>,"<i>Yes, I think I’ll feel better.</i>",<i>そうね　そうなれると思う</i>
+$C3330_MAIN_2900_0600_00_art,<i>Aerith</i>,<i>Yay!</i>,<i>やった！</i>
+$C3330_MAIN_3000_0100_00_art,Aerith,"Are you okay, Mom?",だいじょうぶ？　お母さん
+$C3330_MAIN_3000_0200_00_efa,Ifalna,I’m sorry…<br>We’re only halfway through our adventure.,ごめんね……<br>冒険　途中なのに
+$C3330_MAIN_3000_0300_00_art,Aerith,"Mom, wait here.<br>I’ll go get a doctor.",お母さん　待っててね<br>お医者さん呼んでくる
+$C3330_MAIN_3000_0400_00_art,Aerith,Who…?,だれ……？
+$C3330_MAIN_3000_0500_00_art,Aerith,Hang in there.,がんばって
+$C3330_MAIN_3100_0100_00_art,Aerith,Does anyone know a doctor?!,お医者さんを知りませんか！
+$C3330_MAIN_3100_0200_00_art,Aerith,"Someone, please!",だれか　お願いします！
+$C3330_MAIN_3100_0300_00_art,Aerith,Help my mom!,お母さんを助けて！
+$C3330_MAIN_3100_0310_00_art,Aerith,Please help!,助けてください！
+$C3330_MAIN_3100_0320_00_art,Aerith,Isn’t there a doctor around?!,お医者さん　いませんか！
+$C3330_MAIN_3100_0330_00_art,Aerith,My mom’s in trouble!,お母さん　大変なの！
+$C3330_MAIN_3150_0100_00_mma,Slum Resident,"Sorry, kid, I don’t know.",悪いね　わからないよ
+$C3330_MAIN_3150_0200_00_mma,Slum Resident,Try somewhere else.,ほかをあたってくれ
+$C3330_MAIN_3150_0300_00_mfa,Slum Resident,"Quit makin’ noise, scram!",うるさいね　どっかいきな
+$C3330_MAIN_3150_0400_00_mfa,Slum Resident,No one’s comin’ to help.,助けなんか来ないよ
+$C3330_MAIN_3200_0100_00_mma,Slum Resident,"Kid, go home and sleep!",ガキは　家帰って寝てろ！
+$C3330_MAIN_3200_0300_00_elm,Elmyra,You okay?,大丈夫かい？
+$C3330_MAIN_3200_0400_00_art,Aerith,I’m fine.,大丈夫です
+$C3330_MAIN_3200_0410_00_art,Aerith,Do you know a doctor?,お医者さん　知りませんか？
+$C3330_MAIN_3200_0500_00_elm,Elmyra,We live pretty far out.<br>I don’t know any doctors around here.,うちは　はずれのほうでね<br>このあたりの医者は知らないんだ
+$C3330_MAIN_3200_0600_00_art,Aerith,I see…,そうですか……
+$C3330_MAIN_3200_0700_00_elm,Elmyra,Want to tell me more?,よかったら　詳しく
+$C3330_MAIN_3200_0800_00_art,Aerith,Thank you.,ありがとうございます
+$C3330_MAIN_3200_0810_00_art,Aerith,I’m going back to my mom.,わたし　お母さんのとこ　戻ります
+$C3330_MAIN_3200_0900_00_elm,Elmyra,That so?,そうかい？
+$C3330_MAIN_3300_0100_00_art,Aerith,"Mom, I’m sorry.",お母さん　ごめんね
+$C3330_MAIN_3300_0300_00_art,Aerith,"I’ll be right back, okay?",いま　戻るからね
+$C3330_MAIN_3400_0050_00_art,Aerith,Mom.,お母さん
+$C3330_MAIN_3400_0060_00_efa,Ifalna,Aerith…,エアリス……
+$C3330_MAIN_3400_0070_00_efa,Ifalna,I’m returning to the planet now.,私はもう　星に帰るよ
+$C3330_MAIN_3400_0100_00_efa,Ifalna,Don’t be sad.<br>I’ll always be by your side.,悲しまないで<br>これからも　あなたのそばにいるから
+$C3330_MAIN_3400_0110_00_art,Aerith,"Mom, no, don’t go.",お母さん　やだよ
+$C3330_MAIN_3400_0120_00_art,Aerith,Our adventure…?,冒険は……？
+$C3330_MAIN_3400_0130_00_art,Aerith,"We’re going on an adventure together, right?",いっしょに　冒険するんだよね？
+$C3330_MAIN_3400_0140_00_efa,Ifalna,Yeah…,うん……
+$C3330_MAIN_3400_0200_00_elm,Elmyra,You alright?,あんた　大丈夫かい
+$C3330_MAIN_3400_0300_00_efa,Ifalna,"This child… Aerith, take her somewhere safe.",この子を……エアリスを　安全なところへ
+$C3330_MAIN_3400_0400_00_elm,Elmyra,Let’s get out of here.,ここを　離れよう
+$C3330_MAIN_3400_0450_00_art,Aerith,Mom!,お母さん！
+$C3330_MAIN_3400_0500_00_elm,Elmyra,I’ve got a bad feeling.,嫌な予感がする
+$C3330_MAIN_3400_0600_00_art,Aerith,Mom!,お母さん！
+$C3330_MAIN_3400_0650_00_mma,Researcher,"Hey, there she is, over here!",おい　いたぞ　こっちだ！
+$C3330_MAIN_3400_0700_00_art,Aerith,Mom…,お母さん……
+$C3330_MAIN_3600_0100_00_art,Aerith,Listen.,あのね
+$C3330_MAIN_3600_0200_00_art,Aerith,Death… it’s just one state of life.,死は……命のひとつの状態
+$C3330_MAIN_3600_0300_00_art,Aerith,"Even if the body fades away,<br>it doesn’t mean life disappears.",死んで体が消えても<br>命が消えるわけじゃない
+$C3330_MAIN_3600_0400_00_art,Aerith,"It melts into the Lifestream,<br>circles the planet, and nurtures new life.",ライフストリームに溶けて<br>星を巡って　新たな命を育む
+$C3330_MAIN_3600_0500_00_blt,Barret,Don’t need to hear that now.,いまさら　いいって
+$C3330_MAIN_3600_0600_00_art,Aerith,Life doesn’t vanish even in death.,命は死んでも消えない
+$C3330_MAIN_3600_0700_00_art,Aerith,"But even if we get that in our heads,<br>saying goodbye still hurts, doesn’t it?",そんなの　頭でわかっても<br>おわかれは　悲しいよね
+$C3330_MAIN_3600_0800_00_art,Aerith,So don’t just say it’s ‘returning to the planet’<br>like it’s nothing.,だから　星に帰るだけなんて<br>そんなふうに言わないで
+$C3330_MAIN_3600_0900_00_art,Aerith,"No matter how sad the past is, or how unfair things get,",どんなに悲しい過去も　理不尽なできごとも
+$C3330_MAIN_3600_1000_00_art,Aerith,"What we’ve done, what’s been done to us…<br>We can’t erase the past anymore.",したこと　されたこと……<br>過去を消すことは　もうできない
+$C3330_MAIN_3600_1100_00_art,Aerith,But we can change what’s ahead.,でもね　これからのことは変えられる
+$C3330_MAIN_3600_1200_00_art,Aerith,Sadness and anger make us stronger.,悲しみや怒りは　わたしたちを強くする
+$C3330_MAIN_3600_1300_00_art,Aerith,But they can change us too.,けど　わたしたちを変えてしまう
+$C3330_MAIN_3600_1400_00_art,Aerith,I think real strength is something else.,本当の強さは　ちがうと思う
+$C3330_MAIN_3600_1500_00_art,Aerith,"It’s always in our hearts,<br>soft and unbreakable.",それは　いつも心にあって<br>やわらかくて　こわれない
+$C3330_MAIN_3600_1600_00_art,Aerith,That’s what I believe.,そう　思うんだ
+$C3330_MAIN_3600_1700_00_art,Aerith,"If we think about the future, not the past,",過去じゃなくて　未来を思えば
+$C3330_MAIN_3600_1800_00_art,Aerith,We can become stronger than Sephiroth.,わたしたち　セフィロスより強くなれる
+$C3330_MAIN_3600_1810_00_art,Aerith,Way stronger.,ずっと強く
+$C3330_MAIN_3600_1900_00_cld,Cloud,You done talking?,話は終わったか？
+$C3330_MAIN_3600_1910_00_cld,Cloud,We’re out of time. Let’s move.,時間がない　急ごう
+$C3330_MAIN_3600_2000_00_art,Aerith,"Yeah, you’re right.",うん　そうだね
+$C3330_MAIN_3800_0100_00_blt,Barret,What’s up?,どうした？
+$C3330_MAIN_3800_0200_00_cld,Cloud,No problem.,問題ない
+$C3330_MAIN_3800_0300_00_sep,Sephiroth,"Having fun, Cloud?",楽しそうだな　クラウド
+$C3330_MAIN_3800_0310_00_sep,Sephiroth,And what came of it?,その結果　どうなった？
+$C3330_MAIN_3900_0100_00_sep,Sephiroth,Your bomb killed a lot of people.,おまえの爆弾のせいで　大勢が死んだ
+$C3330_MAIN_3900_0200_00_cld,Cloud,Biggs?,ビッグス？
+$C3330_MAIN_4100_0100_00_sep,Sephiroth,Are those emotions even real?,その感情は本物だろうか？
+$C3330_MAIN_4100_0200_00_sep,Sephiroth,"Stop pretending to grieve, Cloud.",悲しむふりはやめろ　クラウド
+$C3330_MAIN_4200_0100_00_tif,Tifa,Jessie…,ジェシー……
+$C3330_MAIN_4200_0300_00_sep,Sephiroth,She was a precious comrade.,大切な仲間だったのに
+$C3330_MAIN_4200_0400_00_sep,Sephiroth,Yet you feel nothing.,おまえは　なにも感じない
+$C3330_MAIN_4200_0500_00_sep,Sephiroth,Why is that?,なぜだろうな？
+$C3330_MAIN_4200_0600_00_cld,Cloud,Sephiroth…,セフィロス……
+$C3330_MAIN_4200_0700_00_sep,Sephiroth,Sadness.,悲しみ
+$C3330_MAIN_4200_0800_00_sep,Sephiroth,Anger.,怒り
+$C3330_MAIN_4200_0900_00_sep,Sephiroth,Guilt.,罪悪感
+$C3330_MAIN_4200_1000_00_sep,Sephiroth,Regret.,後悔
+$C3330_MAIN_4200_1100_00_sep,Sephiroth,"Whatever it is, you can’t comprehend it.",なんであれ　おまえにはわからない
+$C3330_MAIN_4200_1200_00_sep,Sephiroth,"My adorable, empty puppet.",かわいい　俺のからっぽ人形
+$C3330_MAIN_4400_0100_00_cld,Cloud,Sephiroth!,セフィロス！
+$C3330_MAIN_4400_0300_00_sep,Sephiroth,"That’s it, good.",そうだ　それでいい
+$C3330_MAIN_4400_0400_00_sep,Sephiroth,Fill that empty heart with anger.,からっぽの心を　怒りで満たせ
+$C3330_MAIN_4400_0500_00_sep,Sephiroth,Let that anger burn away the sadness.,その怒りで　悲しみを燃やし
+$C3330_MAIN_4400_0600_00_sep,Sephiroth,"Become the me from that day, Cloud.",あの日の俺になるんだ　クラウド
+$C3330_MAIN_4500_0200_00_cld,Cloud,I’m…,俺は……
+$C3330_MAIN_4500_0210_00_cld,Cloud,Not like Sephiroth.,セフィロスとは違う
+$C3330_MAIN_4500_0300_00_tif,Tifa,"I know, Cloud.",わかってるよ　クラウド
+$C3330_MAIN_4500_0400_00_cld,Cloud,Let’s go.,行こう
+$C3330_MAIN_4500_0500_00_art,Aerith,Yeah…,うん……
+$C3340_MAIN_0100_0100_00_red,Red XIII,I wanna show Gramps too.,じっちゃんにも　見せたいな
+$C3340_MAIN_0100_0200_00_set,<i>Cetra Voice</i>,"<i>You who stand here, transcending the ages</i>",<i>悠久の時を超え　ここに立つ者たちよ</i>
+$C3340_MAIN_0100_0300_00_set,<i>Cetra Voice</i>,"<i>The season of the Cetra, walking with the Planet,<br>is drawing to a close</i>",<i>星とともに歩む<br>セトラの季節が過ぎようとしている</i>
+$C3340_MAIN_0100_0400_00_set,<i>Cetra Voice</i>,"<i>Soon, the Planet will be yielded<br>to those who pay no respect to history</i>",<i>ほどなく　歴史に敬意を払わぬ者らに<br>星を譲ることになるだろう</i>
+$C3340_MAIN_0200_0100_00_set,<i>Cetra Voice</i>,"<i>Having ended the battle with the calamity from the cosmos,<br>what awaited us was further hardship</i>",<i>宇宙から来た災厄との戦を終えた<br>我らを待ち受けていたのは　さらなる苦難だった</i>
+$C3340_MAIN_0200_0200_00_set,<i>Cetra Voice</i>,<i>The children of man feared us</i>,<i>人の子らは　我らを恐れた</i>
+$C3340_MAIN_0200_0300_00_set,<i>Cetra Voice</i>,<i>The children of man envied us</i>,<i>人の子らは　我らを妬んだ</i>
+$C3340_MAIN_0200_0400_00_set,<i>Cetra Voice</i>,<i>Whether this too was the calamity’s design</i>,<i>これもまた　災厄の謀だったかどうか</i>
+$C3340_MAIN_0200_0500_00_set,<i>Cetra Voice</i>,<i>We no longer know</i>,<i>もはや　わからない</i>
+$C3340_MAIN_0200_0510_00_set,<i>Cetra Voice</i>,<i>Fate did not choose us</i>,<i>運命は　我らを選ばなかった</i>
+$C3340_MAIN_0200_0600_00_set,<i>Cetra Voice</i>,"<i>We were robbed, left with boundless anger<br>and indelible sorrow</i>",<i>我らは奪われ　抱えきれぬ怒りと<br>拭いきれぬ悲しみとともに</i>
+$C3340_MAIN_0200_0700_00_set,<i>Cetra Voice</i>,"<i>Now, we face the time of our extinction</i>",<i>いま　滅びの時を迎えようとしている</i>
+$C3340_MAIN_0300_0100_00_set,<i>Cetra Voice</i>,"<i>Long ago, the northern lands were wounded</i>",<i>はるか昔　北の地が傷ついた</i>
+$C3340_MAIN_0300_0110_00_set,<i>Cetra Voice</i>,<i>All who went to mend it became the calamity</i>,<i>修復に向かった者たちはみな　災厄となった</i>
+$C3340_MAIN_0300_0200_00_set,<i>Cetra Voice</i>,"<i>The calamity changed its form—to a fallen mother, a fallen brother</i>",<i>災厄は姿を変えた　亡き母に　亡き兄に</i>
+$C3340_MAIN_0300_0300_00_set,<i>Cetra Voice</i>,"<i>The calamity sowed its seeds—in us, in the children of man</i>",<i>災厄は種をまいた　我らに　人の子らに</i>
+$C3340_MAIN_0300_0400_00_set,<i>Cetra Voice</i>,"<i>We fought alongside the Planet,<br>and many of our kin returned to the stars</i>",<i>我らは星とともに戦い<br>多くの同胞が　星へと帰った</i>
+$C3340_MAIN_0300_0500_00_set,<i>Cetra Voice</i>,<i>The calamity did not return</i>,<i>災厄は　帰らなかった</i>
+$C3340_MAIN_0300_0510_00_set,<i>Cetra Voice</i>,"<i>Without merging with the Planet, it merely lay dormant</i>",<i>星と交わることなく　ただ息をひそめた</i>
+$C3340_MAIN_0300_0600_00_set,<i>Cetra Voice</i>,<i>The calamity later gained a name</i>,<i>災厄は　後に名前を得る</i>
+$C3340_MAIN_0300_0610_00_set,<i>Cetra Voice</i>,<i>That name is ‘Jenova’</i>,<i>その名は　『ジェノバ』</i>
+$C3340_MAIN_0300_0700_00_set,<i>Cetra Voice</i>,"<i>Those who are tainted, beware</i>",<i>混ざりし者たちよ　気をつけなさい</i>
+$C3340_MAIN_0300_0701_00_set,<i>Cetra Voice</i>,<i>‘Reunion’…</i>,<i>『リユニオン』……</i>
+$C3340_MAIN_0300_0800_00_set,<i>Cetra Voice</i>,"<i>The seeds of the calamity are sprouting now,<br>seeking to become one</i>",<i>災厄の種は　いま芽吹き<br>ひとつにならんとしている</i>
+$C3340_MAIN_0400_0100_00_set,<i>Cetra Voice</i>,<i>It is our duty to eliminate those who threaten the Planet</i>,<i>星をおびやかす者を排除することは　我らの使命</i>
+$C3340_MAIN_0400_0200_00_set,<i>Cetra Voice</i>,<i>From another world came the ‘Gi’</i>,<i>異なる世界より出でたる　『ギ』</i>
+$C3340_MAIN_0400_0300_00_set,<i>Cetra Voice</i>,"<i>The black materia, born of the ‘Gi’s’ prayers</i>",<i>『ギ』の祈りがつくりし　黒きマテリア</i>
+$C3340_MAIN_0400_0400_00_set,<i>Cetra Voice</i>,<i>This accursed materia<br>must be hidden from the ambitions of future generations</i>,<i>この禍々しいマテリアを<br>後世の野心から　隠し続けなければならない</i>
+$C3340_MAIN_0500_0100_00_set,<i>Cetra Voice</i>,<i>The wicked black materia summons Meteor</i>,<i>邪悪なる黒きマテリアは　メテオを呼ぶ</i>
+$C3340_MAIN_0500_0110_00_set,<i>Cetra Voice</i>,"<i>Meteor will fall upon the Planet, shattering the earth</i>",<i>メテオは星に落ち　大地を破壊するだろう</i>
+$C3340_MAIN_0500_0200_00_set,<i>Cetra Voice</i>,"<i>And after that, the life that remains—</i>",<i>そののちに　残る命は──</i>
+$C3340_MAIN_0500_0300_00_sep,Sephiroth,Will be me alone.,それは　私ひとりだ
+$C3340_MAIN_0500_0400_00_sep,Sephiroth,"At last, the day will come<br>when Jenova’s child rules the Planet.",ついに　ジェノバの申し子が<br>星を支配する日がくる
+$C3340_MAIN_0500_0500_00_sep,Sephiroth,"And now, the world is no longer one.",そしていまや　世界はひとつではない
+$C3340_MAIN_0500_0600_00_sep,Sephiroth,A world unbound by fate’s shackles is carving a new path through time.,運命の拘束を逃れた世界が　新たな時を刻んでいる
+$C3340_MAIN_0500_0700_00_art,Aerith,What does that mean?,どういうこと？
+$C3340_MAIN_0500_0900_00_sep,Sephiroth,"Along with Jenova,<br>the world itself will undergo a Reunion.",ジェノバとともに<br>世界もまた　リユニオンするのだ
+$C3340_MAIN_0500_1000_00_art,Aerith,Reunion…,リユニオン……
+$C3340_MAIN_0500_1200_00_sep,Sephiroth,What lies beyond it,その先にあるのは
+$C3340_MAIN_0500_1210_00_sep,Sephiroth,is eternity.,永遠
+$C3340_MAIN_0500_1300_00_art,Aerith,Eternity doesn’t exist.,永遠なんて　ない
+$C3340_MAIN_0500_1500_00_sep,Sephiroth,"Oh, not yet.",ああ　いまはまだ
+$C3340_MAIN_0500_1600_00_art,Aerith,You’re wrong.,あなたは　まちがっている
+$C3340_MAIN_0500_1700_00_sep,Sephiroth,You will die here.,おまえたちは　ここで死ぬ
+$C3340_MAIN_0500_1710_00_sep,Sephiroth,But there’s no need to grieve.,だが　悲しむことはない
+$C3340_MAIN_0500_1800_00_sep,Sephiroth,You’ll simply return to the Planet.,星に帰るだけだ
+$C3340_MAIN_0500_1900_00_cld,Cloud,Sephiroth!,セフィロス！
+$C3340_MAIN_0550_0100_00_blt,Barret,What the hell’s goin’ on!,どうなってやがる！
+$C3340_MAIN_0600_0100_00_blt,Barret,Take that! We ain’t returnin’ to the Planet yet!,やったな　まだ星には帰らねえぞ！
+$C3340_MAIN_0600_0200_00_yfi,Yuffie,Like that’s gonna stop us!,あんなんで　アタシたちを<br>止められるわけないっつーの！
+$C3340_MAIN_0600_0300_00_cld,Cloud,Stay out of my way.,邪魔するな
+$C3340_MAIN_0600_0601_00_blt,Barret,"Cloud, man…",クラウドよお……
+$C3340_MAIN_0800_0200_00_art,Aerith,Wait!,待って！
+$C3340_MAIN_0900_0100_00_cid,Cid,What’s that bastard up to?,あいつ　なんだってんだ？
+$C3340_MAIN_1000_0100_00_eln,Elena,Hey!,ちょっと！
+$C3340_MAIN_1000_0200_00_cat,Cait Sith,"Sorry ‘bout that, folks!",カンニンやで～！
+$C3340_MAIN_1000_0300_00_lud,Rude,Let’s move.,急ぐぞ
+$C3340_MAIN_1200_0100_00_blt,Barret,"Dammit, what the hell’s happenin’!",クソ　どうなってやがる！
+$C3340_MAIN_1200_0200_00_art,Aerith,"‘To those who wish to destroy the Planet, grant eternal slumber.’",『星の破壊を望む者に　永遠の眠りを与えん』
+$C3340_MAIN_1200_0300_00_art,Aerith,"If you take the black materia, this place’ll collapse.",黒マテリア取ると　ここ崩れるの
+$C3340_MAIN_1200_0400_00_yfi,Yuffie,"You’re kidding, right?",冗談だよね？
+$C3340_MAIN_1200_0410_00_yfi,Yuffie,"Hey, tell me it’s a joke!",ねえ　冗談って言って！
+$C3340_MAIN_1200_0500_00_red,Red XIII,Calm down!,落ちついて！
+$C3340_MAIN_1200_0510_00_red,Red XIII,If we put the black materia back on the pedestal—,黒マテリアを　台に戻せば
+$C3340_MAIN_1200_0600_00_cld,Cloud,Let go!,はなせ！
+$C3340_MAIN_1200_0700_00_blt,Barret,You’re the one who needs to let go!,はなすのは　おまえだって！
+$C3340_MAIN_1200_0800_00_art,Aerith,No good. The collapse can’t be stopped anymore.,ダメ　もう崩壊は止まらない
+$C3340_MAIN_1200_0810_00_art,Aerith,"Plus, that black materia’s a fake.",それに　その黒マテリアもニセモノ
+$C3340_MAIN_1200_0900_00_cld,Cloud,You tryin’ to trick me?,俺を　だますつもりだな？
+$C3340_MAIN_1200_1000_00_blt,Barret,"Damn it, we’re screwed!",ちっくしょう　ダメかよ！
+$C3340_MAIN_1200_1100_00_cat,Cait Sith,"Hiya, folks! Been a while, eh?",はいにゃ　ご無沙汰してます～
+$C3340_MAIN_1200_1200_00_blt,Barret,You son of a…!,てっめえ……！
+$C3340_MAIN_1200_1300_00_cat,Cait Sith,Talk later!,話はあと！
+$C3340_MAIN_1200_1500_00_cat,Cait Sith,Leave this to me!<br>You all need to get outta here!,ここは　ボクにまかせて<br>みなさんは　逃げてください
+$C3340_MAIN_1200_1600_00_blt,Barret,You…,おまえ……
+$C3340_MAIN_1200_1700_00_art,Aerith,"What about you, Cait Sith?",ケット・シーは　どうするの？
+$C3340_MAIN_1200_1800_00_cat,Cait Sith,"I’m just a fortune-tellin’ robot, after all.",ボクは　しょせん占いロボット
+$C3340_MAIN_1200_1810_00_cat,Cait Sith,Don’t worry about me.,気にせんとってください
+$C3340_MAIN_1200_1900_00_cat,Cait Sith,"Shoulda trained harder, huh…",鍛えとくん……やったなあ
+$C3340_MAIN_1200_1910_00_cat,Cait Sith,"I can’t hold it much longer,<br>so run like your lives depend on it!",長くは持ちません<br>せやから　死ぬ気で走ってや！
+$C3340_MAIN_1200_2000_00_vin,Vincent,We’re leaving.,出るぞ
+$C3340_MAIN_1200_2100_00_vin,Vincent,I’ve secured an escape route.,脱出ルートは確保した
+$C3340_MAIN_1200_2200_00_cld,Cloud,Let’s go. Time to escape.,行くぞ　脱出だ
+$C3340_MAIN_1200_2250_00_blt,Barret,"Sorry, man. We’re countin’ on ya.",すまねえ　まかせるぞ
+$C3340_MAIN_1200_2250_05_cat,Cait Sith,"Aye, aye!",はいにゃ！
+$C3340_MAIN_1200_2300_00_art,Aerith,Thank you.,ありがとう
+$C3340_MAIN_1200_2400_00_tif,Tifa,Hang in there!,しっかりして！
+$C3340_MAIN_1200_2500_00_cld,Cloud,"Yeah, I know.",ああ　わかってる
+$C3340_MAIN_1200_2600_00_art,Aerith,Let’s go.,行こう
+$C3340_MAIN_1300_0100_00_yfi,Yuffie,"This is bad, bad, bad, BAD!",ヤバイ　ヤバイヤバイヤバイって！
+$C3340_MAIN_1300_0200_00_blt,Barret,Shut up and keep runnin’!,うるせい　黙って走れ！
+$C3340_MAIN_1300_0300_00_tif,Tifa,"We said some awful things to Cait Sith, didn’t we?",ケット・シーに　私たち<br>ひどいこと言っちゃったね
+$C3340_MAIN_1300_0400_00_art,Aerith,Yeah…,うん……
+$C3340_MAIN_1300_0500_00_red,Red XIII,I wanted to apologize.,あやまりたかったな
+$C3340_MAIN_1400_0100_00_cat,Cait Sith,"‘Thank you,’ huh? Aw, shucks, that’s embarrassin’!",ありがとうやて　なんや照れるわ
+$C3340_MAIN_1400_0200_00_cat,Cait Sith,Everybody… hurry it up!,みんな……急いでや
+$C3340_MAIN_1500_0100_00_blt,Barret,"Hey, we gonna make it…?",おいおい　間に合うか……？
+$C3340_MAIN_1500_0200_00_red,Red XIII,Cait Sith’s holdin’ on for us!,ケット・シーが　ふんばってくれてる！
+$C3340_MAIN_1500_0300_00_tif,Tifa,"Yeah, we’ve gotta survive, no matter what!",うん　ぜったい生き延びよう
+$C3340_MAIN_1500_0400_00_blt,Barret,"Run, run, run, run—RUN!",走れ走れ走れ走れ　走れー！
+$C3340_MAIN_1500_0500_00_yfi,Yuffie,You’re so loud—just shut up and run!,うるさいって　黙って走れ！
+$C3340_MAIN_1600_0100_00_tif,Tifa,Almost there!,もうすぐ！
+$C3340_MAIN_1600_0300_00_red,Red XIII,Eyes forward!,前だけ見て！
+$C3340_MAIN_1700_0100_00_cat,Cait Sith,Guess it’s about time…,ぼちぼち　ええかな……
+$C3340_MAIN_1700_0300_00_cat,Cait Sith,"Well then, everybody…<br>make sure you save the Planet, alright?",ほな　みんな……<br>しっかり　星を救うんやで
+$C3340_MAIN_1900_0100_00_cat,????,"Whoa, now that’s a sight to behold!",いや～　壮観ですな～！
+$C3340_MAIN_1900_0200_00_blt,Barret,How the hell’d you—!,おまえ　どうやって！
+$C3340_MAIN_1900_0300_00_cat,Cait Sith,"Can’t let Gold Saucer get lonely without me, right?",ボクがいないと<br>ゴールド・ソーサーが寂しくなりますからね
+$C3340_MAIN_1900_0400_00_cat,Cait Sith,I’ve got plenty of spare bodies lyin’ around!,ボディの予備は　いっぱいあるんです
+$C3340_MAIN_1900_0500_00_art,Aerith,I’m so glad.,よかった
+$C3340_MAIN_1900_0600_00_cat,Cait Sith,"Aw, stop it!",やめてえな～！
+$C3340_MAIN_1900_0700_00_cid,Cid,"So, did ya get what you came for?",で　目当てのもんは手に入ったのか？
+$C3340_MAIN_1900_0800_00_yfi,Yuffie,You’re really askin’ that?,それ　聞いちゃう？
+$C3340_MAIN_1900_0900_00_blt,Barret,"What’s wrong with you, man?",おまえ　どうしちまったんだよ
+$C3340_MAIN_1900_0910_00_blt,Barret,Weren’t you listenin’?,話　聞いてなかったのか？
+$C3340_MAIN_1900_1000_00_cld,Cloud,Give it back.,返してくれ
+$C3340_MAIN_1900_1100_00_blt,Barret,This damn thing…,こんなもん……
+$C3340_MAIN_1900_1200_00_cld,Cloud,Sephiroth.,セフィロス
+$C3340_MAIN_1900_1300_00_sep,Sephiroth,This is a key.,これは鍵だ
+$C3340_MAIN_1900_1400_00_sep,Sephiroth,"A key to obtain the real one, hidden in the rift between worlds.",世界の狭間に隠された本物を手に入れるためのな
+$C3340_MAIN_1900_1500_00_art,Aerith,Give it back!,返して！
+$C3340_MAIN_1900_1600_00_sep,Sephiroth,"Now, the time is fulfilled.",さあ　時は満ちた
+$C3340_MAIN_1900_1700_00_cld,Cloud,Black materia…,黒マテリア……
+$C3340_MAIN_2000_0100_00_ruf,Rufus,What’s that?,なんだ　あれは？
+$C3340_MAIN_2000_0210_00_hjo,Hojo,It’s starting… It’s finally starting!,始まる　始まるのか！
+$C3340_MAIN_2000_0400_00_skm,Pilot,"We’ve lost control! At this rate, we’re going to crash!",制御不能　このままでは墜落します！
+$C3340_MAIN_2000_0500_00_ruf,Rufus,Eject.,離脱しろ
+$C3340_MAIN_2100_0100_00_art,Aerith,Whispers?,フィーラー？
+$C3340_MAIN_2100_0200_00_cld,Cloud,No. It’s Sephiroth.,いや　セフィロスだ
+$C3340_MAIN_2100_0300_00_sep,Sephiroth,"Come, Cloud.",来い　クラウド
+$C3340_MAIN_2200_0200_00_sep,Sephiroth,"Now, Cloud.",さあ　クラウド
+$C3340_MAIN_2200_0300_00_sep,Sephiroth,The promised time has come.,約束の時だ
+$C3340_MAIN_2200_0400_00_cld,Cloud,"Aerith, give her back.",エアリス　返してくれ
+$C3340_MAIN_2200_0500_00_tif,Tifa,"Snap out of it, Cloud!",しっかりして　クラウド！
+$C3340_MAIN_2200_0600_00_sep,Sephiroth,"Cloud, pull yourself together.",クラウド　しっかりしろ
+$C3340_MAIN_2200_0700_00_art,Aerith,I won’t let you have it.,あなたには　渡せない
+$C3340_MAIN_2200_0800_00_sep,Sephiroth,"Come now, you’ll have to take it back.",さあ　取り返さなくては
+$C3340_MAIN_2200_0900_00_tif,Tifa,"Cloud, no!",クラウド　だめ！
+$C3340_MAIN_2300_0200_00_cld,Cloud,Aerith…,エアリス……
+$C3340_MAIN_2300_0201_00_cld,Cloud,Aerith…,エアリス……
+$C3340_MAIN_2300_0202_00_cld,Cloud,Aerith…,エアリス……
+$C3340_MAIN_2300_0203_00_cld,Cloud,Aerith…,エアリス……
+$C3340_MAIN_2300_0300_00_cld,Cloud,Wait for me.,待ってくれ
+$C3340_MAIN_2300_0301_00_cld,Cloud,Wait for me.,待ってくれ
+$C3340_MAIN_2300_0302_00_cld,Cloud,Wait for me.,待ってくれ
+$C3340_MAIN_2300_0500_00_cld,Cloud,Black materia…,黒マテリア……
+$C3340_MAIN_2300_0501_00_cld,Cloud,Black materia…,黒マテリア……
+$C3340_MAIN_2400_0100_00_cld,Cloud,Aerith…,エアリス……
+$C3340_MAIN_2400_0101_00_cld,Cloud,Aerith…,エアリス……
+$C3340_MAIN_2400_0200_00_cld,Cloud,Hand it over.,渡してくれ
+$C3340_MAIN_2400_0201_00_cld,Cloud,Hand it over.,渡してくれ
+$C3340_MAIN_2400_0300_00_cld,Cloud,Please…,お願いだ……
+$C3340_MAIN_2400_0301_00_cld,Cloud,Please…,お願いだ……
+$C3340_MAIN_2400_0400_00_cld,Cloud,Trust me.,信じてくれ
+$C3340_MAIN_2400_0401_00_cld,Cloud,Trust me.,信じてくれ
+$C3340_MAIN_2400_0500_00_cld,Cloud,Let’s protect the Planet together.,いっしょに　星を守ろう
+$C3340_MAIN_2400_0501_00_cld,Cloud,Let’s protect the Planet together.,いっしょに　星を守ろう
+$C3340_MAIN_2500_0100_00_cld,Cloud,"Aerith, come on…",エアリス　さあ……
+$C3340_MAIN_2500_0200_00_art,Aerith,"No matter what happens, we’re in this together.",なにがあっても　いっしょだよ
+$C3340_MAIN_2500_0300_00_cld,Cloud,Thank you.,ありがとう
+$C3340_MAIN_2500_0400_00_cld,Cloud,Aerith!,エアリス！
+$C3340_MAIN_2500_0500_00_art,Aerith,Welcome back.,おかえり
+$C3510_MAIN_0100_0100_00_sep,Sephiroth,"Cloud, this is the shape of the world.",クラウド　これが世界の姿だ
+$C3510_MAIN_0100_0200_00_sep,Sephiroth,"When the wall of fate shatters, a new world is born.",運命の壁が壊れる時　新たな世界が生まれる
+$C3510_MAIN_0300_0100_00_sep,Sephiroth,"This Planet holds many layered worlds,<br>and the worlds that are born—",この星には　幾層もの世界があり<br>生み出された世界は
+$C3510_MAIN_0300_0200_00_sep,Sephiroth,"Some persist,<br>while others vanish in an instant.",あるものは続き<br>あるものは　すぐに消える
+$C3510_MAIN_0300_0201_00_sep,Sephiroth,Even those that endure will eventually fade.,仮に長く続いても　いつか消える
+$C3510_MAIN_0300_0300_00_sep,Sephiroth,But there’s no need for sorrow.,だが　悲しむことはない
+$C3510_MAIN_0300_0310_00_sep,Sephiroth,The worlds that fade simply return to the Planet.,消えた世界は　ただ星に帰るだけ
+$C3510_MAIN_0300_0400_00_sep,Sephiroth,"And in doing so, they sustain the Planet’s life.",そして　星の命を繋ぐのだ
+$C3510_MAIN_0300_0500_00_sep,<i>Sephiroth</i>,<i>Life flows through the Planet.</i>,<i>命は　星を巡る</i>
+$C3510_MAIN_0300_0600_00_sep,<i>Sephiroth</i>,"<i>But if the Planet itself perishes, that cycle ends.</i>",<i>だが　星が消えれば　それも終わりだ</i>
+$C3510_MAIN_0300_0700_00_art,<i>Aerith</i>,<i>Sephiroth cares only for the Planet and himself.<br>He’d do anything to protect them.</i>,<i>セフィロスが大事なのは　星と自分<br>守るためなら　なんでもする</i>
+$C3510_MAIN_0300_0800_00_art,<i>Aerith</i>,<i>I think that’s wrong.</i>,<i>そんなの　間違ってると思う</i>
+$C3510_MAIN_0500_0100_00_sep,Sephiroth,"Can you hear it, Cloud?",聞こえるか　クラウド
+$C3510_MAIN_0500_0110_00_sep,Sephiroth,"The Planet’s joy, the Planet’s blessing.",星の喜び　星の祝福
+$C3510_MAIN_0500_0200_00_cld,Cloud,No. This is a scream.,違う　これは悲鳴だ
+$C3510_MAIN_0500_0300_00_sep,Sephiroth,It seems we still see the world differently.,我々はまだ　世界の見え方が違うらしいな
+$C3510_MAIN_0500_0400_00_sep,<i>Sephiroth</i>,"<i>I need your strength, Cloud.</i>",<i>おまえの力が必要だ　クラウド</i>
+$C3510_MAIN_0500_0500_00_sep,<i>Sephiroth</i>,<i>Shall we defy fate together?</i>,<i>ともに　運命に抗ってみないか？</i>
+$C3510_MAIN_0500_0600_00_sep,<i>Sephiroth</i>,<i>Seven seconds before the end.</i>,<i>終末の７秒前</i>
+$C3510_MAIN_0500_0700_00_sep,<i>Sephiroth</i>,<i>But there’s still time.</i>,<i>だが　まだ間に合う</i>
+$C3510_MAIN_0500_0800_00_sep,<i>Sephiroth</i>,"<i>The future rests on you,<br>Cloud—</i>",<i>未来は　おまえ次第だ<br>クラウド――</i>
+$C3510_MAIN_0700_0100_00_sep,Sephiroth,Sever the past entirely.,過去など　断ち切ってしまえ
+$C3510_MAIN_0700_0200_00_sep,Sephiroth,The world will undergo Reunion.,世界は　リユニオンする
+$C3510_MAIN_0700_0300_00_sep,Sephiroth,It will reunite with our world.,我々の世界に　リユニオンするのだ
+$C3510_MAIN_0700_0400_00_cld,Cloud,Reunion…,リユニオン……
+$C3510_MAIN_0900_0200_00_cld,Cloud,Re… un… ion…,リ……ユニ……オン……
+$C3510_MAIN_1000_0100_00_cld,Cloud,It’s got nothing to do with me.,俺には関係ない
+$C3510_MAIN_1000_0200_00_sep,Sephiroth,You’re still saying that?,まだそんなことを
+$C3510_MAIN_1000_0300_00_sep,Sephiroth,"No choice, then. I’ll lend you a hand.",仕方がない　手伝ってやろう
+$C3510_MAIN_1000_0500_00_sep,Sephiroth,I’ll bestow a blessing upon you.,祝福を　おまえに贈ろう
+$C3510_MAIN_1200_0100_00_cld,Cloud,Where am I…?,ここは……？
+$C3510_MAIN_1200_0200_00_sep,Sephiroth,Did you bring something foreign here?,異物を持ち込んだのか
+$C3510_MAIN_1200_0300_00_sep,Sephiroth,Punishment is in order.,罰が必要だな
+$C3510_MAIN_1300_0100_00_art,Aerith,Cloud.,クラウド
+$C3510_MAIN_1300_0200_00_art,Aerith,We meet again.,また会えたね
+$C3510_MAIN_1300_0300_00_cld,Cloud,You’re safe.,無事だったんだな
+$C3510_MAIN_1300_0400_00_cld,Cloud,Sephiroth’s here.,セフィロスがいるんだ
+$C3510_MAIN_1300_0410_00_cld,Cloud,"He’s close, watching us.",近くにいて　俺たちを見ている
+$C3510_MAIN_1300_0500_00_art,Aerith,Yeah.,うん
+$C3510_MAIN_1300_0600_00_art,Aerith,"But Cloud, just focus on yourself.",でも　クラウドは自分のことだけ考えて
+$C3510_MAIN_1300_0700_00_cld,Cloud,I’m fine.,俺は大丈夫だ
+$C3510_MAIN_1300_0800_00_art,Aerith,Find your true self.<br>Think only of yourself.,本当の自分を見つけて<br>自分のことだけ　考えて
+$C3510_MAIN_1300_1000_00_art,Aerith,Leave Sephiroth to me.,セフィロスのこと　わたしにまかせて
+$C3510_MAIN_1300_1100_00_art,Aerith,He’ll use the black materia.,セフィロスは　黒マテリア使うはず
+$C3510_MAIN_1300_1200_00_art,Aerith,I’m the only one who can stop him.,止められるのは　わたしだけ
+$C3510_MAIN_1300_1300_00_art,Aerith,Only a Cetra can.,セトラだけなの
+$C3510_MAIN_1300_1500_00_art,Aerith,Thank you.<br>I’ve definitely received it.,ありがとう<br>たしかに　受け取りました
+$C3510_MAIN_1300_1600_00_art,Aerith,"Here, take this.",これ　あげるね
+$C3510_MAIN_1300_1700_00_cld,Cloud,Looks like a glass bead.,ガラス玉みたいだな
+$C3510_MAIN_1300_1800_00_cld,Cloud,Aerith?,エアリス？
+$C3510_MAIN_1300_1900_00_cld,Cloud,Aerith!,エアリス！
+$C3510_MAIN_1400_0100_00_cld,Cloud,Aerith…,エアリス……
+$C3510_MAIN_1400_0200_00_cld,Cloud,Wait for me!,待ってくれ！
+$C3510_MAIN_1400_0300_00_cld,Cloud,Aerith…,エアリス……
+$C3510_MAIN_1500_0100_00_cld,Cloud,Aerith…,エアリス……
+$C3510_MAIN_1500_0200_00_cld,Cloud,Aerith!,エアリス！
+$C3510_MAIN_1600_0100_00_tif,Tifa,"Aerith, where are you?",エアリス　どこ？
+$C3510_MAIN_1600_0200_00_yfi,Yuffie,Aerith~!,エアリス～！
+$C3510_MAIN_1600_0300_00_cat,Cait Sith,"Aerith, lass!",エアリスは～ん
+$C3510_MAIN_1600_0400_00_red,Red XIII,"Hey, Aerith!",おーい　エアリス！
+$C3510_MAIN_1600_0500_00_blt,Barret,Aerith! Aerith!,エアリス　エアリスー！
+$C3510_MAIN_1600_0700_00_blt,Barret,"Hey, hold up a sec!",おい　ちょっと待て！
+$C3510_MAIN_1600_0800_00_blt,Barret,Cloud!,クラウド！
+$C3510_MAIN_1600_0900_00_tif,Tifa,Cloud!,クラウド！
+$C3510_MAIN_1600_1000_00_tif,Tifa,"Cloud, you okay?",クラウド　大丈夫？
+$C3510_MAIN_1600_1100_00_cld,Cloud,I’m fine.,大丈夫だ
+$C3510_MAIN_1600_1200_00_blt,Barret,Thought you’d gone off the deep end with mako poisoning or somethin’.,魔晄中毒だか　劣化だかが<br>いくだけいっちまったと思ったぜ
+$C3510_MAIN_1600_1300_00_cld,Cloud,Sorry for the trouble.,世話をかけたな
+$C3510_MAIN_1600_1400_00_blt,Barret,"You can thank us proper later.<br>For now, it’s Aerith we gotta worry about.",礼はあとで　たっぷりしてもらうとして<br>まずはエアリスだ
+$C3510_MAIN_1600_1500_00_red,Red XIII,"Beyond this forest, there’s an ancient city.<br>They say it’s got a Cetra altar.",この森を越えたところに　大昔の都があって<br>そこには　セトラの祭壇があるんだって
+$C3510_MAIN_1600_1600_00_red,Red XIII,That’s where Aerith’s headed.,エアリスは　そこへ行くつもりなんだ
+$C3510_MAIN_1600_1700_00_yfi,Yuffie,"Sephiroth stole the black materia, right?",黒マテリアは　セフィロスに奪われたんでしょ？
+$C3510_MAIN_1600_1710_00_yfi,Yuffie,"If he uses it, this Planet’s toast.",使われたら　この星は大変なことになる
+$C3510_MAIN_1600_1800_00_yfi,Yuffie,She said a Cetra can stop it.,それを　セトラは防ぐことができる<br>って言ってた
+$C3510_MAIN_1600_1900_00_cld,Cloud,Where’s this city?,都はどこだ？
+$C3510_MAIN_1600_2000_00_red,Red XIII,Only Aerith knows.,エアリスしか知らないよ
+$C3510_MAIN_1600_2100_00_tif,Tifa,The fog’s so thick we got separated.,霧が濃くて　はぐれちゃって
+$C3510_MAIN_1600_2200_00_tif,Tifa,She went off on her own.,ひとりで行かせちゃった
+$C3510_MAIN_1600_2300_00_cld,Cloud,We’d better hurry.,急いだほうがいいな
+$C3510_MAIN_1600_2400_00_cld,Cloud,That way.,あっちだ
+$C3510_MAIN_1600_2500_00_blt,Barret,You sound damn sure of yourself.,やけに自信たっぷりじゃねえか
+$C3510_MAIN_1600_2600_00_cld,Cloud,It’s fate guiding me.,運命の導きだ
+$C3510_MAIN_1700_0100_00_yfi,Yuffie,"Hey, Cloud,<br>Aerith told me something.",ねえ　クラウド<br>エアリスから聞いたよ
+$C3510_MAIN_1700_0200_00_yfi,Yuffie,She said Sephiroth totally trashed you<br>at the Temple of the Ancients?,古代種の神殿で　セフィロスに<br>ギッタギタにやられたんだって？
+$C3510_MAIN_1700_0300_00_cld,Cloud,"No, that’s not how it went.",いや　そんなことはなかったはずだ
+$C3510_MAIN_1700_0400_00_yfi,Yuffie,"Oh, really?<br>Then why’d you hand over the black materia?",おろ～　じゃあ<br>黒マテリアはなんで渡したの？
+$C3510_MAIN_1700_0500_00_cld,Cloud,That’s…,それは……
+$C3510_MAIN_1700_0600_00_yfi,Yuffie,"No point actin’ cool about it now, right?",いまさら　カッコつけなくていいんじゃないの？
+$C3510_MAIN_1700_0700_00_cld,Cloud,"Yeah, you’re right.<br>He beat me senseless and took it.",そうだな<br>ギッタギタにやられて　とられた
+$C3510_MAIN_1700_0800_00_cld,Cloud,Sorry.,すまなかった
+$C3510_MAIN_1700_0900_00_yfi,Yuffie,I’m sorry I couldn’t back you up.,アタシも応援に行けなくてごめんよ
+$C3510_MAIN_1800_0100_00_blt,Barret,You been dreamin’ this whole time?,おまえ　ずっと夢でも見てたのか？
+$C3510_MAIN_1800_0110_00_blt,Barret,Eyes were dartin’ around while you slept.,寝たまんま　目玉だけ動いてたぜ
+$C3510_MAIN_1800_0200_00_cld,Cloud,I don’t think it was a dream.,夢とは違うと思う
+$C3510_MAIN_1800_0300_00_blt,Barret,"So you saw somethin’, huh?",なにか見てたのは　当たりか
+$C3510_MAIN_1800_0400_00_cld,Cloud,Yeah. I was in another world.,ああ　別の世界にいた
+$C3510_MAIN_1800_0500_00_cld,Cloud,Seems this Planet’s got multiple worlds.,この星には　世界がいくつもあるらしい
+$C3510_MAIN_1800_0600_00_blt,Barret,That so…,そうか……
+$C3510_MAIN_1800_0700_00_cld,Cloud,"Can’t explain it well, though.",うまく説明できそうにないけどな
+$C3510_MAIN_1800_0800_00_blt,Barret,"Yeah, and I ain’t in the mood to hear it right now.",ああ　オレもいまは聞きたくねえ
+$C3510_MAIN_1900_0100_00_red,Red XIII,"Cloud, this fog… it’s not normal, is it?",クラウド　この霧……普通じゃないよね
+$C3510_MAIN_1900_0200_00_cld,Cloud,No.,ああ
+$C3510_MAIN_1900_0300_00_red,Red XIII,Doesn’t it look like Whispers sometimes?,ときどき　フィーラーに見えないかい？
+$C3510_MAIN_1900_0400_00_cld,Cloud,"Yeah, I see it.",見える
+$C3510_MAIN_1900_0500_00_red,Red XIII,Whispers are fate’s enforcers.,フィーラーは運命の番人
+$C3510_MAIN_1900_0600_00_red,Red XIII,So getting lost and separated from Aerith—<br>maybe that’s our fate.,じゃあ　エアリスとはぐれて迷うことが<br>オイラたちの運命ってことかな
+$C3510_MAIN_1900_0700_00_cld,Cloud,Who knows.,さあな
+$C3510_MAIN_1900_0800_00_red,Red XIII,I’m worried…,オイラ　不安だよ……
+$C3510_MAIN_2000_0100_00_tif,Tifa,"Cloud, listen.",クラウド　あのね
+$C3510_MAIN_2000_0200_00_tif,Tifa,"If you feel sick or get weird thoughts,<br>tell us right away, okay?",具合が悪くなったり　変な考えが頭に浮かんだら<br>すぐに私たちに話してね
+$C3510_MAIN_2000_0300_00_cld,Cloud,Weird thoughts?,変な考えって？
+$C3510_MAIN_2000_0400_00_tif,Tifa,Like… thinking I’m a fake or something.,たとえば……<br>私がニセモノだと思うとか
+$C3510_MAIN_2000_0500_00_cld,Cloud,Sorry about that.,悪かった
+$C3510_MAIN_2000_0600_00_tif,Tifa,I don’t want you to feel bad—just talk to us.<br>Me or anyone else.,悪いと思わずに相談してほしいの<br>私でも　ほかの誰かでも
+$C3510_MAIN_2000_0700_00_cld,Cloud,"Yeah, I will.",ああ　そうする
+$C3510_MAIN_2100_0100_00_cat,Cait Sith,"Cloud, sir…",クラウドさん……
+$C3510_MAIN_2100_0200_00_cat,Cait Sith,"I’ve apologized to everyone else,<br>but I figured I hadn’t gotten to you yet.",みなさんには謝ったんですけど<br>クラウドさんには　まだやったと思いまして
+$C3510_MAIN_2100_0300_00_cat,Cait Sith,"About that mess at the Gold Saucer—<br>awful sorry, I am!",ゴールドソーサーでのこと<br>えらい　すいません
+$C3510_MAIN_2100_0400_00_cat,Cait Sith,"The Keystone’s dangerous, aye?<br>Thought it’d be better off with Shinra first.",キーストーンは危険な代物やって<br>神羅に先に渡したほうがいい思いましたんや
+$C3510_MAIN_2100_0500_00_cld,Cloud,It’s fine. Forget it.,もういい　忘れる
+$C3510_MAIN_2100_0600_00_cat,Cait Sith,"Thanks a bunch! You’re a generous one, Cloud!",おおきに　クラウドさんは寛大ですなあ
+$C3510_MAIN_2100_0700_00_cld,Cloud,"No, I just don’t have the energy<br>to dwell on what you did.",いや　おまえのしたことを<br>どうこう考える余裕がないんだ
+$C3510_MAIN_2100_0800_00_cat,Cait Sith,"Aye, fair enough…<br>But if that’s the case, leave the support to me!",そうですか……でも　そういうことでしたら<br>サポートは　ボクにおまかせを！
+$C3510_MAIN_2200_0100_00_vin,Vincent,A place where the Ancients once gathered<br>and offered their prayers.,かつて古代種が集い　祈りを捧げたという
+$C3510_MAIN_2200_0110_00_vin,Vincent,The Forgotten City.,忘らるる都
+$C3510_MAIN_2200_0200_00_vin,Vincent,To see it with my own eyes…,この目で見られるとはな
+$C3510_MAIN_2300_0100_00_tif,Tifa,This is… it?,ここが……そう？
+$C3510_MAIN_2300_0200_00_red,Red XIII,"Oh, I get it!",ああ　そうか！
+$C3510_MAIN_2300_0300_00_red,Red XIII,"Yeah, this has to be it.<br>The city’s called the ‘Forgotten City.’",うん　きっとここが正解<br>街の名前は　『忘らるる都』
+$C3510_MAIN_2300_0400_00_red,Red XIII,Gramps told me there’s a Cetra city<br>known by that name.,そう呼ばれる　セトラの都があるって<br>じっちゃんに聞いたことがあるよ
+$C3510_MAIN_2300_0500_00_yfi,Yuffie,"There’s gotta be an altar here too, right?<br>The vibe’s perfect!",ぜったい　祭壇もあるよね<br>雰囲気バッチリ！
+$C3510_MAIN_2300_0600_00_blt,Barret,"Alright, let’s find Aerith!",よし　エアリスを探そうぜ
+$C3510_MAIN_2300_0700_00_blt,Barret,Whispers again?<br>They’re really gettin’ in the way now!,フィーラーかよ<br>また　ずいぶん邪魔してくれるじゃねえか
+$C3510_MAIN_2300_0800_00_tif,Tifa,These Whispers…,このフィーラー……
+$C3510_MAIN_2300_0900_00_cld,Cloud,"Yeah, the black ones aren’t fate’s enforcers.",ああ　黒いやつは運命の番人なんかじゃない
+$C3510_MAIN_2300_1000_00_cld,Cloud,They’re Sephiroth’s pawns.,これは　セフィロスの手先だ
+$C3510_MAIN_2300_1100_00_sep,Sephiroth,"Hurry, Cloud.",早く来い　クラウド
+$C3510_MAIN_2400_0100_00_blt,Barret,What's that supposed to mean?,なんだよ？
+$C3510_MAIN_2400_0200_00_red,Red XIII,This is…!,これって……！
+$C3510_MAIN_2400_0300_00_cld,Cloud,Sephiroth,セフィロス
+$C3510_MAIN_2400_0400_00_sep,Sephiroth,"Aerith, you’d better pray.",エアリス　祈るがいい
+$C3510_MAIN_2400_0500_00_sep,Sephiroth,Reunion,リユニオン
+$C3510_MAIN_2400_0600_00_sep,Sephiroth,The worlds will intertwine and merge.,世界は交わり　融合する
+$C3510_MAIN_2400_0700_00_sep,Sephiroth,"Anger and sorrow amplify, becoming the planet’s strength.",怒りと悲しみは増幅し　星の力となるのだ
+$C3510_MAIN_2600_0100_00_red,Red XIII,The Whispers… They’re white.,フィーラー　白いね
+$C3510_MAIN_2600_0200_00_cld,Cloud,"Yeah, they’re on guard.",ああ　警戒されている
+$C3510_MAIN_2600_0300_00_cld,Cloud,Here they come!,来るぞ！
+$C3510_MAIN_2650_0100_00_tif,Tifa,Did something change?,様子が変わった？
+$C3510_MAIN_2650_0200_00_yfi,Yuffie,"How’s it look? Pretty good, huh?",どーよ　イイ感じ？
+$C3510_MAIN_2650_0300_00_blt,Barret,Let’s keep it rollin’!,どんどん行くぜ！
+$C3510_MAIN_2650_0400_00_red,Red XIII,We’ve gotta take ‘em down fast!,早くやっつけないと！
+$C3510_MAIN_2650_0500_00_cat,Cait Sith,We’ve got this in the bag!,これはもろたで！
+$C3510_MAIN_2650_0600_00_cld,Cloud,We’ll push through.,押し切るぞ
+$C3510_MAIN_2650_0700_00_cld,Cloud,Keep charging ahead.,このまま突き進む
+$C3510_MAIN_2650_0800_00_cld,Cloud,They won’t take us down.,やられはしない
+$C3510_MAIN_2650_0900_00_tif,Tifa,I won’t lose!,負けないよ！
+$C3510_MAIN_2650_1000_00_tif,Tifa,I’ll get through this!,乗り越えてみせる
+$C3510_MAIN_2650_1100_00_tif,Tifa,Move it!,そこをどいて！
+$C3510_MAIN_2650_1200_00_blt,Barret,Don’t get in my way!,邪魔すんじゃねえ！
+$C3510_MAIN_2650_1300_00_blt,Barret,No way I’m losin’!,意地でも負けっかよ！
+$C3510_MAIN_2650_1400_00_blt,Barret,Outta the way!,どけどけー！
+$C3510_MAIN_2650_1500_00_yfi,Yuffie,I’ll beat ‘em to a pulp!,ボッコボコにしてやる！
+$C3510_MAIN_2650_1600_00_yfi,Yuffie,Wutai’s pride is on the line!,ウータイの意地　見せたげる！
+$C3510_MAIN_2650_1700_00_yfi,Yuffie,Don’t mess with a ninja!,シノビ　なめんな～！
+$C3510_MAIN_2650_1800_00_red,Red XIII,I’m not giving up!,あきらめないぞ
+$C3510_MAIN_2650_1900_00_red,Red XIII,I’m fired up!,燃えてきた～！
+$C3510_MAIN_2650_2000_00_red,Red XIII,I won’t run away!,オイラは逃げない
+$C3510_MAIN_2650_2100_00_cat,Cait Sith,Time to dig in!,ツッコミどころや！
+$C3510_MAIN_2650_2200_00_cat,Cait Sith,"Don’t get in my way, aye!",邪魔せんとってや～
+$C3510_MAIN_2650_2300_00_cat,Cait Sith,"Feelin’ pretty good, eh?",ええ感じとちゃいます？
+$C3510_MAIN_2700_0200_00_blt,Barret,Here we go again—the Wall of Fate!,まただ　運命の壁ってやつだ
+$C3510_MAIN_2700_0300_00_tif,Tifa,Aerith!,エアリス！
+$C3510_MAIN_2700_0400_00_red,Red XIII,How do we break through?,どうやって開けばいい？
+$C3510_MAIN_2700_0500_00_blt,Barret,Leave it to me!,まかせろ
+$C3510_MAIN_2700_0510_00_blt,Barret,We’ve smashed through stuff like this tons of times!,こんなの　何度も越えてきたぜ
+$C3510_MAIN_2700_0600_00_blt,Barret,‟Daddy’s off to work!”—that’s the vibe!,父ちゃん　行ってきまーす<br>ってなもんよ
+$C3510_MAIN_2700_0800_00_yfi,Yuffie,"No way, I’m out!",むりむり　やめた！
+$C3510_MAIN_2700_0900_00_tif,Tifa,Aerith…,エアリス……
+$C3510_MAIN_2700_1000_00_cld,Cloud,Aerith,エアリス
+$C3510_MAIN_2700_1100_00_tif,Tifa,Aerith!,エアリス！
+$C3510_MAIN_2700_1200_00_yfi,Yuffie,Aerith!,エアリス！
+$C3510_MAIN_2700_1300_00_red,Red XIII,Aerith!,エアリス！
+$C3510_MAIN_2700_1400_00_blt,Barret,Aerith!,エアリス！
+$C3510_MAIN_2700_1410_00_cat,Cait Sith,Miss Aerith!,エアリスはん！
+$C3510_MAIN_2700_1500_00_cld,Cloud,Aerith!,エアリス！
+$C3510_MAIN_2700_1600_00_blt,Barret,"Cloud, go!",クラウド　行け！
+$C3510_MAIN_2700_1800_00_vin,Vincent,"Cloud, go.",クラウド　行け
+$C3510_MAIN_2900_0100_00_art,<i>Aerith</i>,"<i>O Planet, O Cetra…</i>",<i>星よ　セトラたちよ</i>
+$C3510_MAIN_2900_0200_00_art,<i>Aerith</i>,"<i>Please, lend me your strength.</i>",<i>どうか　力を貸してください</i>
+$C3510_MAIN_2900_0600_00_art,<i>Aerith</i>,<i>I’m the last of the Cetra now.</i>,<i>もう　セトラは　わたししかいません</i>
+$C3510_MAIN_2900_0700_00_art,<i>Aerith</i>,"<i>And yet, I don’t even know the words to pray.</i>",<i>それなのに　祈りの言葉も知りません</i>
+$C3510_MAIN_2900_1000_00_art,<i>Aerith</i>,<i>I love everyone.</i>,<i>みんなが　好きなんです</i>
+$C3510_MAIN_2900_1100_00_art,<i>Aerith</i>,<i>That’s why I want to protect them.</i>,<i>だから　守りたい</i>
+$C3510_MAIN_2900_1200_00_art,<i>Aerith</i>,<i>That’s my only wish.</i>,<i>望みは　それだけです</i>
+$C3510_MAIN_2900_1300_00_art,<i>Aerith</i>,"<i>O Planet, O Cetra…</i>",<i>星よ　セトラたちよ</i>
+$C3510_MAIN_2900_1400_00_art,<i>Aerith</i>,"<i>Please, teach me.</i>",<i>教えてください</i>
+$C3510_MAIN_3100_0200_00_cld,Cloud,Sephiroth!,セフィロス！
+$C3510_MAIN_3100_0500_00_cld,Cloud,Aerith!,エアリス！
+$C3510_MAIN_3100_0700_00_sep,Sephiroth,Don’t grieve.,悲しむな
+$C3510_MAIN_3100_0800_00_sep,Sephiroth,Stop pretending to be angry.,怒るふりもやめろ
+$C3510_MAIN_3100_0900_00_sep,Sephiroth,You have nothing.,おまえには　なにもない
+$C3510_MAIN_3100_1000_00_art,Aerith,Cloud’s gonna be fine.,クラウドは　だいじょうぶ
+$C3510_MAIN_3100_1100_00_cld,Cloud,Aerith…,エアリス……
+$C3510_MAIN_3100_1200_00_tif,Tifa,Aerith!,エアリス！
+$C3510_MAIN_3100_1300_00_blt,Barret,You bastard!,てめえ！
+$C3510_MAIN_3100_1400_00_sep,Sephiroth,Here it begins.,さあ　始まるぞ
+$C3510_MAIN_3100_1500_00_sep,Sephiroth,Worlds brimming with every emotion will collide.,あらゆる情を乗せた世界が混ざり合うのだ
+$C3510_MAIN_3100_1600_00_sep,Sephiroth,Negative emotions run deep.,負の感情は強い
+$C3510_MAIN_3100_1700_00_sep,Sephiroth,"They swallow petty joys,<br>turning them into anger, sorrow, and hatred.",ちっぽけな喜びなど飲み込んでしまい<br>そればかりか　怒り　悲しみ　憎悪に変える
+$C3510_MAIN_3100_1800_00_sep,Sephiroth,"Ah, what a powerful resonance.",ああ　なんと強い波動だろう
+$C3510_MAIN_3100_1900_00_cld,Cloud,Hold on.,待ってろ
+$C3510_MAIN_3100_2000_00_sep,Sephiroth,"Though, you might not even notice.",もっとも　おまえは気づかないかもしれない
+$C3510_MAIN_3100_2200_00_cld,Cloud,Shut up!,だまれ！
+$C3510_MAIN_3100_2300_00_sep,Sephiroth,Because…,なぜなら
+$C3510_MAIN_3100_2400_00_sep,Sephiroth,You’re just a puppet.,おまえは人形だ
+$C3510_MAIN_3130_0200_00_blt,Barret,You okay!?,大丈夫か！
+$C3510_MAIN_3130_0300_00_cld,Cloud,Yeah.,ああ
+$C3510_MAIN_3140_0200_00_cat,Cait Sith,This is bad!,こら　アカン！
+$C3510_MAIN_3150_0200_00_yfi,Yuffie,Take THIS!,さ～せ～る～か～～～！
+$C3510_MAIN_3150_0300_00_yfi,Yuffie,Shaaa!,しゃあああ！
+$C3510_MAIN_3150_0400_00_red,Red XIII,Cloud!,クラウド！
+$C3510_MAIN_3150_0900_00_cat,Cait Sith,Get outta my way!,ジャマすんで～！
+$C3510_MAIN_3150_1100_00_cat,Cait Sith,"Here we go, lads!",こっちも　いきまっせ～！
+$C3510_MAIN_3150_1200_00_cld,Cloud,Let’s finish this!,きめるぞ！
+$C3510_MAIN_3200_0100_00_blt,Barret,What’s that?,なんだ？
+$C3510_MAIN_3300_0100_00_zax,Zack,It’s just white as far as I can see.,どこまで行っても　まっしろけ
+$C3510_MAIN_3300_0200_00_zax,Zack,Hey!,おーい！
+$C3510_MAIN_3300_0400_00_zax,Zack,What’s going on here?,どういう状況？
+$C3510_MAIN_3300_0500_00_zax,Zack,"Still, I’m glad we got to meet.",でも　会えて良かった
+$C3510_MAIN_3300_0600_00_zax,Zack,Well…,まあ……
+$C3510_MAIN_3300_0700_00_zax,Zack,"It’s a little frustrating, though.",すこし　憎たらしいけどな
+$C3510_MAIN_3300_1000_00_cld,Cloud,Zack…?,ザックス……？
+$C3510_MAIN_3300_1100_00_zax,Zack,Guess we’ll talk later.,こりゃ　話はあとだな
+$C3510_MAIN_3300_1200_00_zax,Zack & Cloud,Sephiroth!,セフィロス！
+$C3510_MAIN_3400_0100_00_sep,Sephiroth,"Worlds converge, then part once more.",世界は交わり　また別れる
+$C3510_MAIN_3400_0300_00_zax,Zack,"Cloud, get Aerith!",クラウド　エアリスを！
+$C3510_MAIN_3400_0400_00_sep,Sephiroth,"Come, Cloud. Shall we have some fun?",さあクラウド　楽しもうか
+$C3510_MAIN_3450_0200_00_cld,Cloud,Here we go!,行くぞ！
+$C3510_MAIN_3600_0100_00_blt,Barret,Where’s Cloud?,クラウドは？
+$C3510_MAIN_3600_0200_00_red,Red XIII,Did the Whispers swallow him up?,フィーラーに飲まれたのかも
+$C3510_MAIN_3600_0300_00_yfi,Yuffie,Did they take him somewhere?,どっか　連れてかれちゃった？
+$C3510_MAIN_3600_0500_00_tif,Tifa,Here they come!,来る！
+$C3510_MAIN_3600_0600_00_red,Red XIII,Sephiroth…,セフィロス……
+$C3510_MAIN_3600_0700_00_blt,Barret,Time for a reckoning!,弔い合戦だ！
+$C3510_MAIN_3900_0100_00_zax,Zack,Aerith…?,エアリス……？
+$C3510_MAIN_3900_0200_00_zax,Zack,I don’t get any of this anymore!,もう　ぜんぜんわかんねえ！
+$C3510_MAIN_3900_0300_00_zax,Zack & Cloud,Embrace your dreams.,夢を抱きしめろ
+$C3510_MAIN_3900_0310_00_zax,Zack & Cloud,"And no matter what happens,<br>never let go of that SOLDIER pride.",そして　どんなときでも<br>ソルジャーの誇りは手放すな
+$C3510_MAIN_4400_0050_00_blt,Barret,"Alright, we good to go!?",おっし　いけるか！
+$C3510_MAIN_4400_0400_00_cat,Cait Sith,This is a right mess!,こら　エライこっちゃ！
+$C3510_MAIN_4400_0500_00_blt,Barret,No way I’m goin’ down!,負けるかあーーー！
+$C3510_MAIN_4500_0100_00_blt,Barret,"Hey, hey, hey…<br>This ain’t the end, is it!?",おいおいおい……<br>終わりじゃねえのかよ！
+$C3510_MAIN_4500_0200_00_cld,Cloud,"Come on, Sephiroth.",来い　セフィロス
+$C3510_MAIN_4500_0300_00_art,Aerith,"It’s the final showdown, huh?",決勝　だね
+$C3510_MAIN_4500_0400_00_sep,Sephiroth,I’ll be honest.,正直に言おう
+$C3510_MAIN_4500_0500_00_sep,Sephiroth,I underestimated you.,おまえを見くびっていた
+$C3510_MAIN_4600_0100_00_cld,Cloud,You’re still laughing.,まだ笑ってる
+$C3510_MAIN_4600_0200_00_art,Aerith,It’s not… over yet.,まだ……終わってないもの
+$C3510_MAIN_4600_0300_00_art,Aerith,Let’s go.,行こう
+$C3510_MAIN_4600_0310_00_art,Aerith,Everyone’s waiting.,みんなが待ってる
+$C3510_MAIN_4700_0100_00_zax,Zack,We did it!,やった！
+$C3510_MAIN_4700_0200_00_zax,Zack,Goodbye?,さよなら？
+$C3510_MAIN_4700_0300_00_zax,Zack,See you later?,いってきます？
+$C3510_MAIN_4700_0400_00_zax,Zack,"No, no…",いやいや
+$C3510_MAIN_4700_0500_00_zax,Zack,Catch ya later!,またな！
+$C3510_MAIN_4800_0100_00_cld,Cloud,"Aerith, wake up.",エアリス　起きてくれ
+$C3510_MAIN_5000_0100_00_blt,Barret,That’s enough—let’s split.,もうじゅうぶんだ　離れようぜ
+$C3510_MAIN_5000_0200_00_cld,Cloud,"Yeah, you’re right.",ああ　そうだな
+$C3510_MAIN_5000_0310_00_art,Aerith,I’ll send you off.,おくるね
+$C3510_MAIN_5000_0500_00_cld,Cloud,"Tifa, let’s go.",ティファ　行こう
+$C3510_MAIN_5100_0100_00_ruf,Rufus,You’re…,あんたは
+$C3510_MAIN_5100_0110_00_ruf,Rufus,Impressive.,すごいな
+$C3510_MAIN_5100_0200_00_rgs,Glenn,Me?,俺か？
+$C3510_MAIN_5100_0300_00_rgs,Glenn,"Nah, no way.",んなワケねえか
+$C3510_MAIN_5100_0400_00_rgs,Glenn,"So, you know Governor Sfool?",で　スフール総督を知らないか？
+$C3510_MAIN_5100_0500_00_rgs,Glenn,"He ditched an important meeting,<br>and I got stuck lookin’ like a fool.",大事な会見をすっぽかされてな<br>俺は大恥をかかされた
+$C3510_MAIN_5100_0600_00_ruf,Rufus,The governor wouldn’t step onto such a shoddy stage.,あんな貧相なセットに　総督は立たない
+$C3510_MAIN_5100_0700_00_rgs,Glenn,Got it.<br>Rich kids are a pain in the ass.,なるほどな<br>お坊ちゃま育ちは面倒くせえや
+$C3510_MAIN_5100_0800_00_rgs,Glenn,"Still, it worked out.<br>The anti-Shinra warriors are about to make their move.",しかしまあ　効果はあった<br>反神羅の戦士が　いまにも動き出すぞ
+$C3510_MAIN_5100_0900_00_ruf,Rufus,"Hey, Glenn.",なあ　グレン
+$C3510_MAIN_5100_1000_00_ruf,Rufus,Is this war… just a toy to keep me away from Sephiroth?,戦争は……俺をセフィロスから<br>引き離すためのオモチャか
+$C3510_MAIN_5100_1100_00_rgs,Glenn,Guess you’d figure it out eventually.,さすがにバレるよな
+$C3510_MAIN_5100_1200_00_rgs,Glenn & Sephiroth,But the preparations are coming together.,だが　準備は整いつつある
+$C3510_MAIN_5100_1201_00_sep,Sephiroth,But the preparations are coming together.,だが　準備は整いつつある
+$C3510_MAIN_5100_1300_00_rgs,Glenn & Sephiroth,Our ‟Promised Land” will be born.,我々の『約束の地』が生まれるのだ
+$C3510_MAIN_5100_1301_00_sep,Sephiroth,Our ‟Promised Land” will be born.,我々の『約束の地』が生まれるのだ
+$C3510_MAIN_5100_1400_00_rgs,Glenn,Good for you—surpassed your old man.,良かったな　父親超えだ
+$C3510_MAIN_5100_1401_00_sep,Sephiroth,Good for you—surpassed your old man.,良かったな　父親超えだ
+$C3510_MAIN_5100_1500_00_ruf,Rufus,What I want is the real thing.,俺が欲しいのは　本物だ
+$C3510_MAIN_5100_1600_00_rgs,Glenn,Ain’t there somethin’ about knowin’ your place?,分相応って　言うじゃねえか
+$C3510_MAIN_5100_1700_00_rgs,Glenn,"Still good at stabbin’ folks in the back, huh?",相変わらず　背中を撃つのがうまい
+$C3510_MAIN_5300_0100_00_zax,Zack,A dream…?,夢……？
+$C3510_MAIN_5300_0200_00_zax,Zack,"No, maybe not a dream.",いや　夢じゃないか
+$C3510_MAIN_5300_0300_00_zax,Zack,"Yeah, definitely not a dream.",うん　夢なもんか
+$C3510_MAIN_5300_0400_00_zax,Zack,Worlds meet and part again.,世界は交わり　また別れる
+$C3510_MAIN_5300_0500_00_zax,Zack,And then they meet once more.,そしてまた　交わる
+$C3510_MAIN_5400_0200_00_cat,Cait Sith,Can’t we push it up a wee bit more?,もうちょっと　あげられまへんか？
+$C3510_MAIN_5400_0300_00_blt,Barret,Shut it!,うっせえな
+$C3510_MAIN_5400_0310_00_blt,Barret,How’s this!?,これで……どうだ！
+$C3510_MAIN_5400_0400_00_cat,Cait Sith,Niiiice!,ナーイス！
+$C3510_MAIN_5400_0500_00_cid,Cid,"So, what did Aerith end up doin’?",で　エアリスは　けっきょくなにをしたんだ？
+$C3510_MAIN_5400_0800_00_cid,Cid,"Alright, the sky’s callin’!",よ～し　空が待ってるぜ！
+$C3510_MAIN_5400_0900_00_yfi,Yuffie,What’s that supposed to mean…?,なんだよお……
+$C3510_MAIN_5400_1000_00_red,Red XIII,Aerith…,エアリス……
+$C3510_MAIN_5400_1200_00_cld,Cloud,Black Materia…,黒マテリア……
+$C3510_MAIN_5400_1300_00_cld,Cloud,Reunion,リユニオン
+$C3510_MAIN_5400_1400_00_cid,Cid,"C’mon, hop aboard!",さあ　乗った乗った
+$C3510_MAIN_5400_1500_00_cld,Cloud,"Yeah, I’m coming.",ああ　いま行く
+$C3510_MAIN_5400_1700_00_art,Aerith,"Don’t look at the sky, okay?",空　見ないでね
+$C3510_MAIN_5400_1800_00_cld,Cloud,Don’t look at the sky.,空を見るな
+$C3510_MAIN_5400_1900_00_blt,Barret,Sayin’ that just makes me wanna look!,んなこと言われたら　見るだろ！
+$C3510_MAIN_5400_2000_00_cld,Cloud,"You can look, just don’t dwell on it.",見てもいいけど　気にするな
+$C3510_MAIN_5400_2010_00_blt,Barret,Ain’t nothin’ there!,なんもねえぞ
+$C3510_MAIN_5400_2100_00_cld,Cloud,"It’s a mirage, an illusion.",あれは　まぼろし　幻想だ
+$C3510_MAIN_5400_2200_00_cld,Cloud,Let’s head north.<br>We’re gonna take down Sephiroth.,さあ　北へ行こう<br>セフィロスを倒すんだ
+$C3510_MAIN_5400_2300_00_blt,Barret,North?,北？
+$C3510_MAIN_5400_2400_00_cld,Cloud,I get him—I know how he thinks.<br>SOLDIER to SOLDIER.,俺には　あいつがわかる<br>ソルジャー同士だからな
+$C3510_MAIN_5400_2500_00_yfi,Yuffie,"Cloud, you’re so dependable!",クラウド　頼もしい！
+$C3510_MAIN_5400_2700_00_blt,Barret,"Fine, I’m bettin’ on you.",いいだろう　おまえに賭けるぜ
+$C3510_MAIN_5400_2800_00_blt,Barret,"Everything we hold dear, all of it—it’s a heavy load.<br>Brace yourself.",オレたちの大事なもん　一切合切だ<br>かなり重いから　覚悟しろよ
+$C3510_MAIN_5400_2900_00_cid,Cid,"What’re we loadin’ up?<br>Too heavy, and I’m ditchin’ it!",なにを積むって？<br>あんまり重いのは捨てるからな！
+$C3510_MAIN_5400_3000_00_cld,Cloud,"Don’t worry, I’ll pick it up.",心配するな　俺が拾ってやる
+$C3510_MAIN_5400_3100_00_art,Aerith,Take care!,いってらっしゃい
+$C3510_MAIN_5400_3200_00_cld,Cloud,Will the trip back be okay?,帰りは大丈夫なのか？
+$C3510_MAIN_5400_3300_00_art,Aerith,What if I said it won’t be?,大丈夫じゃないって言ったら？
+$C3510_MAIN_5400_3400_00_art,Aerith,"This is a Cetra place, after all.",ここ　セトラの場所だからね
+$C3510_MAIN_5400_3500_00_cld,Cloud,I see.,そうか
+$C3510_MAIN_5400_3600_00_cld,Cloud,But… what if…,でも　もし……
+$C3510_MAIN_5400_3610_00_cld,Cloud,If something happens…,もしなにかあったら
+$C3510_MAIN_5400_3700_00_art,Aerith,I’ll send up a signal flare.,のろし　あげちゃう
+$C3510_MAIN_5400_3800_00_cld,Cloud,Got it. I won’t miss it.,わかった　見逃さない
+$C3510_MAIN_5400_3900_00_art,Aerith,I’ll pray as hard as I can<br>to stop Meteor.,わたし　いっぱい祈って<br>メテオを食い止める
+$C3510_MAIN_5400_3910_00_art,Aerith,"So, Cloud, you’ve gotta do your best too.",だから　クラウドもがんばって
+$C3510_MAIN_5400_4000_00_cld,Cloud,Yeah.,ああ
+$C3510_MAIN_5400_4010_00_cld,Cloud,I’ll find Sephiroth fast and take him down.,急いでセフィロスを探し出して　倒す
+$C3510_MAIN_5400_4100_00_art,Aerith,For sure.,きっとだよ
+$C3510_MAIN_5400_4200_00_cld,Cloud,For sure.,きっとだ
+$C3510_MAIN_5400_4300_00_art,Aerith,Goodbye.,さよなら
+$CAPTL_BOS_24_1100_0100_00_cld,Cloud,Here they come!,来るぞ！
+$CAPTL_BOS_24_1100_0200_00_blt,Barret,I won’t forgive ‘em…!,許さねえ……！
+$CAPTL_BOS_24_1100_0300_00_tif,Tifa,I won’t forgive them!,許さない！
+$CAPTL_BOS_24_1100_0400_00_red,Red XIII,I won’t forgive them…,許さない……
+$CAPTL_BOS_24_1100_0500_00_yfi,Yuffie,No way I’ll forgive ‘em!,絶対に許さない！
+$CAPTL_BOS_24_1100_0600_00_cat,Cait Sith,This cannae be forgiven!,こんなこと　許されへん！
+$CAPTL_BOS_24_1100_1200_00_cld,Cloud,Leave the rest to me.,あとは　まかせろ
+$CAPTL_BOS_24_1100_1300_00_cld,Cloud,I won’t lose.,俺は　負けない
+$CAPTL_BOS_24_1100_1400_00_blt,Barret,I’ll crush ‘em for sure!,ぜってえ　倒す！
+$CAPTL_BOS_24_1100_1500_00_tif,Tifa,I can’t lose!,負けられない！
+$CAPTL_BOS_24_1100_1600_00_red,Red XIII,"Let’s win this, no matter what!",絶対　勝とう！
+$CAPTL_BOS_24_1100_1700_00_yfi,Yuffie,I’m not losing!,負けないから！
+$CAPTL_BOS_24_1100_1800_00_cat,Cait Sith,"We’ve gotta win this, aye!",絶対に　勝ちましょ！
+$CAPTL_BOS_24_1100_1900_00_cld,Cloud,Obviously.,当然だ
+$CAPTL_BOS_24_1100_2000_00_tif,Tifa,"We can do this, right?",いけるよね？
+$CAPTL_BOS_24_1100_2100_00_cat,Cait Sith,"If we don’t do it here, the cat’s done for!",ここでやらな　ネコがすたります！
+$CAPTL_BOS_24_1100_2200_00_tif,Tifa,"Yeah, we’re counting on you.",うん　頼りにしてる
+$CAPTL_BOS_24_1100_2300_00_cat,Cait Sith,"Och, it’s runnin’ away!",あっ　逃げよった！
+$CAPTL_BOS_24_1100_2400_00_tif,Tifa,Barret!,バレット！
+$CAPTL_BOS_24_1100_2500_00_blt,Barret,"Alright, bring it on!",よっしゃ　どんとこい！
+$CAPTL_BOS_24_1100_2600_00_blt,Barret,"Nanaki, let’s roll!",ナナキ　行くぞ
+$CAPTL_BOS_24_1100_2700_00_red,Red XIII,"Yeah, here we go, here we go, here we go!",うん　行くぜ行くぜ行くぜー！
+$CAPTL_BOS_24_1100_2800_00_blt,Barret,"Hah! Here we go, here we go, here we go!",ハハッ　行くぜ行くぜ行くぜー！
+$CAPTL_BOS_24_1100_2900_00_red,Red XIII,Whoa… wait up!,わっ……待て！
+$CAPTL_BOS_24_1100_3000_00_blt,Barret,"Yuffie, it’s on!",ユフィ　いったぞ！
+$CAPTL_BOS_24_1100_3100_00_yfi,Yuffie,Been waitin’ for this!,待ってました！
+$CAPTL_BOS_24_1100_3200_00_yfi,Yuffie,"Cloud, ain’t you glad you teamed up with me!?",クラウド　アタシ仲間にしてよかったでしょ！
+$CAPTL_BOS_24_1100_3300_00_cld,Cloud,Never a dull moment.,退屈はしなかった
+$CAPTL_BOS_24_1100_3400_00_yfi,Yuffie,"Yeah, I didn’t have time to get bored either!",アタシも　そんな暇なかったよね
+$CAPTL_BOS_24_1100_3500_00_blt,Barret,You all ready for this!?,おめえら　覚悟はいいか！
+$CAPTL_BOS_24_1100_3600_00_yfi,Yuffie,Don’t slow me down!,足ひっぱんないでよ！
+$CAPTL_BOS_24_1100_3700_00_cat,Cait Sith,"No need for fortunes now, eh?",もう　占いはいりませんね
+$CAPTL_BOS_24_1100_3800_00_red,Red XIII,Let’s carve our way through together!,みんなで　切り開こう！
+$CAPTL_BOS_24_1100_3900_00_tif,Tifa,"Cloud, you good?",クラウド　いける？
+$CAPTL_BOS_24_1100_4000_00_cld,Cloud,"Yeah, let’s finish it.",ああ　終わらせよう
+$CAPTL_BOS_25_1100_0100_00_zax,Zack,"Cloud, you’ve got this, right!?",クラウド　いけるよな！
+$CAPTL_BOS_25_1100_0200_00_cld,Cloud,Uh… yeah!,あ……ああ！
+$CAPTL_BOS_25_1100_0300_00_cld,Cloud,"Zack, match my pace!",ザックス　俺に合わせてくれ
+$CAPTL_BOS_25_1100_0400_00_zax,Zack,"Whoa, look at you, all grown up!",おっ　立派になっちゃって！
+$CAPTL_BOS_25_1100_0500_00_zax,Zack,"Hey, we’re SOLDIER, right!?<br>Where’s that pride at!?",なあ　俺たち　ソルジャーだろ！<br>誇りはどうしたんだよ
+$CAPTL_BOS_25_1100_0600_00_sep,Sephiroth,Pathetic.,くだらん
+$CAPTL_BOS_25_1100_0700_00_zax,Zack,"Yeah, exactly.",だよな
+$CAPTL_BOS_25_1100_0800_00_zax,Zack,"That’s why you did that back then,<br>and why you’re doin’ this now!",だから　あんなことしたんだよな<br>こんなことしてんだよな！
+$CAPTL_BOS_25_1100_0810_00_zax,Zack,Got it loud and clear!,よーくわかった！
+$CAPTL_BOS_25_1100_0900_00_sep,Sephiroth,"My pitiful, beloved puppet.",哀れな　愛しい　私の人形
+$CAPTL_BOS_25_1100_1000_00_cld,Cloud,Don’t mess with me.,ふざけるな
+$CAPTL_BOS_25_1100_1100_00_sep,Sephiroth,Is that anger real?,その怒りは　本物か？
+$CAPTL_BOS_25_1100_1200_00_zax,Zack & Cloud,Now—attack!,いまだ　攻めるぞ！
+$CAPTL_BOS_25_1100_1400_00_zax,Zack,"Hah, okay!",ははっ　オーケー！
+$CAPTL_BOS_25_1100_1500_00_cld,Cloud,"Sephiroth, I… won’t lose.",セフィロス　俺は……負けない
+$CAPTL_BOS_25_1100_1600_00_cld,Cloud,If we can just get there…,あそこまで行けば……
+$CAPTL_BOS_25_1100_1700_00_cat,Cait Sith,W-w-w-what do we do!?,どどどど　どないしましょ？
+$CAPTL_BOS_25_1100_1800_00_red,Red XIII,Bahamut’s in the way.,バハムートが邪魔だね
+$CAPTL_BOS_25_1100_1900_00_yfi,Yuffie,Rule one of ninja: take out the obstacles first!,邪魔者から消すのが　シノビの鉄則だよ
+$CAPTL_BOS_25_1100_2000_00_blt,Barret,Sephiroth can wait!,セフィロスは後まわしだ！
+$CAPTL_BOS_25_1100_2100_00_tif,Tifa,"Yeah, let’s hit Bahamut first!",うん　バハムートから攻めよう！
+$CAPTL_BOS_25_1100_2200_00_blt,Barret,Bastard’s healin’ up!,野郎　回復してやがる！
+$CAPTL_BOS_25_1100_2300_00_tif,Tifa,We’ve gotta stop it from healing!,回復を止めないと！
+$CAPTL_BOS_25_1100_2400_00_red,Red XIII,Now’s our chance to aim for the wings!,いまなら　翼を狙えるよ！
+$CAPTL_BOS_25_1100_2500_00_yfi,Yuffie,Finally got up front!,やっと前に来た！
+$CAPTL_BOS_25_1100_2600_00_cat,Cait Sith,"Oh ho, those wings are wide open!",あらら　翼が丸見えでっせ～！
+$CAPTL_BOS_25_1100_2700_00_blt,Barret,"Hey, did we get it!?",おっ　やったか！
+$CAPTL_BOS_25_1100_2800_00_yfi,Yuffie,"Heh heh heh, wing’s mine!",シシシ　翼　いただき！
+$CAPTL_BOS_25_1100_2900_00_tif,Tifa,One more wing to go!,翼は　あとひとつ！
+$CAPTL_BOS_25_1100_3000_00_cat,Cait Sith,Let’s keep the pressure on!,この調子で　攻めましょ！
+$CAPTL_BOS_25_1100_3100_00_red,Red XIII,Let’s take out the other one too!,もう片方も　やっちゃおう！
+$CAPTL_BOS_25_1100_3200_00_zax,Zack,"Alright, let’s finish this!",よーし　決着つけようぜ！
+$CAPTL_BOS_25_1100_3300_00_zax,Zack,I’m throwin’ everything I’ve got into this!,俺の力　ぜんぶたたっこむ！
+$CAPTL_BOS_25_1100_3400_00_yfi,Yuffie,"This thing’s weaker than it looks, huh?",こいつ　意外と弱ってる？
+$CAPTL_BOS_25_1100_3500_00_red,Red XIII,Looks like we’ve got more friends out there.,オイラたち　仲間がほかにもいるみたい
+$CAPTL_BOS_25_1100_3600_00_tif,Tifa,Cloud…?,クラウド……？
+$CAPTL_BOS_25_1100_3700_00_cat,Cait Sith,"Well, that’s a boost!",そら　心強いわ～
+$CAPTL_BOS_25_1100_3800_00_blt,Barret,We ain’t losin’ to ‘em!,こっちも負けてらんねえぞ！
+$CAPTL_BOS_25_1100_3900_00_blt,Barret,"Dammit, it ain’t workin’!",くそ　効いてねえ！
+$CAPTL_BOS_25_1100_4000_00_cat,Cait Sith,This is bad…,こら　アカンわ……
+$CAPTL_BOS_25_1100_4100_00_tif,Tifa,We’ve gotta break through its barrier first.,先にバリアをはがさないと
+$CAPTL_BOS_25_1100_4200_00_red,Red XIII,The wings are protecting it.,翼が守ってるみたい
+$CAPTL_BOS_25_1100_4300_00_yfi,Yuffie,"Yeah, let’s target the wings!",だね　翼を狙おう！
+$CAPTL_BOS_25_1100_4400_00_tif,Tifa,We need to strip that barrier off first.,先にバリアを剥がさないと
+$CAPTL_BOS_25_1100_4500_00_yfi,Yuffie,"Yep, aim for the wings!",だね　翼を狙おう！
+$CAPTL_BOS_25_1100_5100_00_yfi,Yuffie,"Finally came down, huh!",やっと　おりてきたな～！
+$CAPTL_BOS_25_1100_5200_00_cat,Cait Sith,"Time for the grand finale, aye!?",クライマックスといきましょか～！
+$CAPTL_BOS_25_1100_5300_00_red,Red XIII,We’re not losing this!,オイラたちは負けない！
+$CAPTL_BOS_25_1100_5400_00_blt,Barret,This is where we dig in!,ここが　踏ん張りどころだぞ！
+$CAPTL_BOS_25_1100_5500_00_tif,Tifa,Let’s end it ourselves.,私たちで　終わらせよう
+$CAPTL_BOS_25_1100_5600_00_art,Aerith,"Cloud, I saw everything—thank you.",クラウド　見てたよ　ありがとう
+$CAPTL_BOS_25_1100_5700_00_cld,Cloud,Not yet—focus.,まだはやい　集中しよう
+$CAPTL_BOS_25_1100_5800_00_art,Aerith,"Right, let’s win—no matter what!",だね　勝とう　ぜったい！
+$CAPTL_BOS_25_1100_5900_00_sep,Sephiroth,"Tell me, Cloud, is this reality?<br>What do you think, Cloud?",なあクラウド　これは現実だろうか<br>どう思う　クラウド
+$CAPTL_BOS_25_1100_6000_00_cld,Cloud,Shut up. I’m done hesitating.,黙れ　俺はもう迷わない
+$CAPTL_BOS_25_1100_6200_00_art,Aerith,"Sephiroth, tell me.",セフィロス　教えて
+$CAPTL_BOS_25_1100_6300_00_sep,Sephiroth,Be quiet and disappear already.,黙れ　さっさと消えろ
+$CAPTL_BOS_25_1100_6400_00_art,Aerith,Aren’t you lonely all by yourself?,ひとりで　さびしくないの？
+$CAPTL_BOS_25_1100_6500_00_art,Aerith,"Cloud, let’s finish it!",クラウド　決めちゃおう！
+$CAPTL_BOS_25_1100_6600_00_cld,Cloud,Sync up!,あわせる！
+$CAPTL_BOS_25_1100_6700_00_cld,Cloud,"Aerith, match me!",エアリス　俺に合わせろ！
+$CAPTL_BOS_25_1100_6800_00_art,Aerith,Got it—I’ll do my best!,うん　がんばる！
+$CHADL_QST_01_2200_0100_00_gil,????,Your stance is solid.<br>Your skill… can’t judge it from this alone.,面構えはよし<br>腕前は……これだけでは量れぬな
+$CHADL_QST_02_2200_0100_00_cld,Cloud,This place is…,ここは……
+$CHADL_QST_02_2200_0200_00_gil,????,Wandering atop the bridge between time’s gaps.,彷徨いて　刻の狭間の　橋の上
+$CHADL_QST_02_2200_0400_00_cld,Cloud,Captain?,隊長？
+$CHADL_QST_02_2200_0500_00_cld,Cloud,Who are you!?,誰だ！
+$CHADL_QST_02_2200_0600_00_gil,Eccentric Swordsman,That which you’ve obtained—,おぬしが手に入れしもの
+$CHADL_QST_02_2200_0610_00_gil,Eccentric Swordsman,"Hand it over cleanly, will you!?",潔く　こちらに渡してもらおうか！
+$CHADL_QST_02_2200_0700_00_cld,Cloud,No thanks.,嫌だね
+$CHADL_QST_02_2200_0800_00_gil,Eccentric Swordsman,"Well then, I’ll take it by force if I must!",ならば　力尽くで奪うまでよ！
+$CHADL_QST_02_2200_1000_00_gil,Eccentric Swordsman,I see thou art a skilled warrior indeed.<br>It seems my judgment was correct after all!,おぬし　相当の使い手と見た<br>やはり我の見立ては正しかったようだな
+$CHADL_QST_02_2200_1100_00_gil,Eccentric Swordsman,And so—,と　なれば――
+$CHADL_QST_02_2200_1200_00_gil,Eccentric Swordsman,"For now, I retreat!",ひとまず退散ッ！
+$CHADL_QST_02_2200_1300_00_cld,Cloud,Huh…?,は……？
+$CHADL_QST_03_4800_0100_00_cld,Cloud,You again.,またか
+$CHADL_QST_03_4800_0200_00_cld,Cloud,So you’re the one controlling the sand giant?,砂の巨人を操っていたのは　おまえか
+$CHADL_QST_03_4800_0300_00_gil,Eccentric Swordsman,"Lured by the voice of Genji,<br>I wandered into this scorching hell.",源氏の声に誘われて<br>彷徨いたるは　灼熱地獄
+$CHADL_QST_03_4800_0400_00_gil,Eccentric Swordsman,Indeed!,いかにも
+$CHADL_QST_03_4800_0500_00_gil,Eccentric Swordsman,How about it? Care for some moonlit sake?,どうだ　月見酒でもやらんか
+$CHADL_QST_03_4800_0600_00_cld,Cloud,No thanks.,結構だ
+$CHADL_QST_03_4800_0700_00_gil,Eccentric Swordsman,"Hmph. I was about to offer a reward,<br>but thou art a dull one indeed.",ふん　せっかくほうびをやろうと思ったのに<br>面白味のない奴め
+$CHADL_QST_03_4800_0710_00_gil,Eccentric Swordsman,"Naught but a thief, eh?",所詮は盗人か
+$CHADL_QST_03_4800_0800_00_cld,Cloud,A thief?,盗人？
+$CHADL_QST_03_4800_0900_00_gil,Eccentric Swordsman,"Hmph! Thou hast stolen every piece of my Genji,<br>yet what else would I call thee but a thief!",ふん　我が源氏をことごとく奪っておいて<br>盗人以外になんと呼ぶ！
+$CHADL_QST_03_4800_1000_00_gil,Eccentric Swordsman,The six pieces of Genji thou hast gathered—,おぬしがそろえた　６つの源氏
+$CHADL_QST_03_4800_1010_00_gil,Eccentric Swordsman,"Helm, breastplate, gauntlets for both hands, greaves,<br>and then—",兜に胸当て　左右の籠手と具足<br>そして――
+$CHADL_QST_03_4800_1100_00_gil,Eccentric Swordsman,This is the final piece!,これが最後のひとつ
+$CHADL_QST_03_4800_1110_00_gil,Eccentric Swordsman,The Genji Shield in my possession!,我が所持する　源氏の盾よ！
+$CHADL_QST_03_4800_1200_00_cld,Cloud,That’s Ancient Materia too?,それも　エンシェントマターか？
+$CHADL_QST_03_4800_1300_00_gil,Eccentric Swordsman,Nooo! It’s the Genji series!,ちが～う　源氏シリーズだ！
+$CHADL_QST_03_4800_1400_00_gil,Eccentric Swordsman,"Grr… If I could but gather all seven relics,<br>my lost memories would return!",ぐぬぬ　７つの武具さえそろえば<br>欠落した記憶が戻り
+$CHADL_QST_03_4800_1500_00_gil,Eccentric Swordsman,"Whence I came and whither I go,<br>I should be able to recall it all!",我がどこから来て　どこへ行くのか<br>思い出せるはずなのだ
+$CHADL_QST_03_4800_1600_00_gil,Eccentric Swordsman,"Thus, I challenge thee to a final duel,<br>with the Genji at stake!",故に　源氏を賭けた<br>最後の勝負を申し込む
+$CHADL_QST_03_4800_1700_00_gil,Gilgamesh,I am none other than the legendary swordsman Gilgamesh!,我こそが　伝説の剣豪ギルガメッシュ！
+$CHADL_QST_03_4800_1710_00_gil,Gilgamesh,The field of battle shall be my island—,決闘の地は我が島
+$CHADL_QST_03_4800_1720_00_gil,Gilgamesh,Gilgamesh Island!,ギルガメッシュ・アイランド！
+$CHADL_QST_03_4800_1800_00_cld,Cloud,Do whatever—,勝手に――
+$CHADL_QST_03_4800_2000_00_gil,Gilgamesh,"I eagerly await the day I cross blades with thee,<br>with my neck stretched long in anticipation!",おぬしと刃を交えるその日を<br>首を長くして　待っているぞ！
+$CHADL_QST_04_2900_0100_00_cld,Cloud,This place again…,またここか……
+$CHADL_QST_04_2900_0300_00_cld,Cloud,I told you—,言ったはずだ
+$CHADL_QST_04_2900_0310_00_cld,Cloud,I’ve got no intention of handing over the Ancient Materia.,エンシェントマターを渡す気はない
+$CHADL_QST_04_2900_0400_00_gil,Eccentric Swordsman,"Enough! Be silent!<br>I may have faltered last time, but not again!",ええい　黙れ<br>過日は不覚を取ったが二度目はないわ！
+$CHADL_QST_04_2900_0500_00_gil,Eccentric Swordsman,"I’ve waited long, my body burning with desire,<br>as time drags ever onward!",待ちわびて　我が身焦がせし<br>時のまにまに
+$CHADL_QST_04_2900_0700_00_gil,Eccentric Swordsman,Now I shall reclaim my treasure—,いまこそ我が宝――
+$CHADL_QST_04_2900_0800_00_gil,Eccentric Swordsman,And take it back!,返してもらうぞ！
+$CHADL_QST_04_3000_0110_00_gil,Eccentric Swordsman,"Indeed… Without my Genji returned, my strength wanes…",やはり　源氏が戻らねば力は出ぬか……
+$CHADL_QST_04_3000_0200_00_gil,Eccentric Swordsman,That sword of thine—,おぬしの　その剣
+$CHADL_QST_04_3000_0300_00_gil,Eccentric Swordsman,Urgh…<br>This craving surging from within me!,ううぬ……<br>身のうちより湧き出でし　この欲求！
+$CHADL_QST_04_3000_0310_00_gil,Eccentric Swordsman,Have I come here seeking legendary weapons?,我は　伝説の武器を求め　ここへ？
+$CHADL_QST_04_3000_0410_00_gil,Eccentric Swordsman,Why can I recall naught at all!,なにゆえ　なにも思い出せんのだ！
+$CHADL_QST_04_3000_0500_00_gil,Eccentric Swordsman,Enough! Return my Genji… my power!,ええい　源氏を……我が力を返せ！
+$CHADL_QST_04_3000_0600_00_gil,Eccentric Swordsman,Hand it over!,よこせっ！
+$CHADL_QST_04_3000_0700_00_gil,Eccentric Swordsman,Hand—,よこ――
+$CHADL_QST_04_3000_0800_00_gil,Eccentric Swordsman,You…!,この……！
+$CHADL_QST_04_3000_0900_00_gil,Eccentric Swordsman,Hngh… W-Wait?,ふんぬっ　ま……待って？
+$CHADL_QST_04_3000_1000_00_gil,Eccentric Swordsman,Huff… Haah… Curse thee…,ぜえ……はあ……　おのれ……
+$CHADL_QST_04_3000_1100_00_cld,Cloud,You okay?,大丈夫か
+$CHADL_QST_04_3000_1200_00_gil,Eccentric Swordsman,Think not that this means victory…,これで　勝ったと思うなよ……
+$CHADL_QST_04_3000_1210_00_gil,Eccentric Swordsman,I shall never yield!,我は決して　あきらめぬ
+$CHADL_QST_04_3000_1220_00_gil,Eccentric Swordsman,I’ll appear before thee again and again!,何度でも　おぬしのまえに現れてやるぞ！
+$CHADL_QST_05_5000_0110_00_gil,Eccentric Swordsman,I’ve been awaiting thy arrival!,おぬしが来るのを　待っておったぞ！
+$CHADL_QST_05_5000_0200_00_gil,Eccentric Swordsman,"Tonight, the Genji shall fall into my hands!",今宵こそ　我が手につかまん　源氏！
+$CHADL_QST_05_5000_0310_00_gil,Eccentric Swordsman,Wh-Wh-Who art thou!,だだだっ　誰だ貴様は！
+$CHADL_QST_05_5000_0400_00_cld,Cloud,Chadley!,チャドリー！
+$CHADL_QST_05_5000_0500_00_chd,Chadley,"I analyzed the phenomena up to this point,<br>and before Cloud’s location data was lost—",これまでに発生した現象を分析し<br>クラウドさんの位置情報がロストするまえに
+$CHADL_QST_05_5000_0600_00_chd,Chadley,I programmed my data to slip in alongside!,ボクのデータを潜り込ませるよう<br>プログラムしてみました！
+$CHADL_QST_05_5000_0700_00_gil,Eccentric Swordsman,P-Prog…?,ぷ　ぷろぐ……？
+$CHADL_QST_05_5000_0800_00_gil,Eccentric Swordsman,"Enough! Vile trickster,<br>I didn’t summon thee here!",ええい　面妖なる奇術師めが<br>貴様を呼んだ覚えはないぞ！
+$CHADL_QST_05_5000_0900_00_chd,Chadley,What a fascinating space!,大変　興味深い空間です！
+$CHADL_QST_05_5000_1000_00_chd,Chadley,I’m Chadley.,ボクは　チャドリー
+$CHADL_QST_05_5000_1100_00_chd,Chadley,Who exactly are you?<br>This space is—,あなたは　いったい何者ですか？<br>この空間は――
+$CHADL_QST_05_5000_1200_00_gil,Eccentric Swordsman,"Who I am, thou ask?",我が何者かだと？
+$CHADL_QST_05_5000_1210_00_gil,Eccentric Swordsman,Enough! ‘Tis I who wishes to ask that!,ええい　それを聞きたいのは我のほうなのだ！
+$CHADL_QST_05_5000_1300_00_gil,Eccentric Swordsman,Begone! Begone!,帰れ　帰れ！
+$CHADL_QST_05_5000_1400_00_chd,Chadley,"W-Wait, please!",わわっ　待ってください！
+$CHADL_QST_05_5000_1500_00_gil,Eccentric Swordsman,Get thee hence!,立ち去れ～い！
+$CHADL_QST_06_4000_0200_00_gil,Eccentric Swordsman,"Alas, ‘tis a pity… Is this the end…?",ざんねんむねん　これまでか～……
+$CHADL_QST_06_5000_0100_00_gil,????,I’m in the privy at present—forgive me!,ただいま厠におるため　御免！
+$CHADL_QST_07_0100_0100_00_chd,Chadley,This is the secret island that suddenly appeared—<br>Gilgamesh Island!,ここが　突如として姿を現した秘島<br>ギルガメッシュ・アイランドですね！
+$CHADL_QST_07_0100_0200_00_chd,Chadley,"It seems to have been submerged in the sea, yet shows no significant damage.",海に沈んでいたようですが　目立った損傷なし
+$CHADL_QST_07_0100_0210_00_chd,Chadley,Likely protected underwater<br>by distortions in the magnetic field.,おそらく　海中で<br>磁場の乱れに守られていたんですね
+$CHADL_QST_07_0100_0300_00_chd,Chadley,"How did an uninhabited island, guarded by fierce currents since ancient times,<br>come to attract dimensional distortions?",古来　激しい海流に守られていた無人島が<br>どうして次元のゆがみを引きつけたのか
+$CHADL_QST_07_0100_0400_00_chd,Chadley,"Oh, the intrigue never ends!",ああ　興味が尽きません！
+$CHADL_QST_07_0100_0500_00_chd,Chadley,"Ah, my apologies.",あっ　すいません
+$CHADL_QST_07_0100_0600_00_chd,Chadley,The otherworldly gear we’ve called Ancient Materia—<br>the Genji series—,これまでエンシェントマターと呼んできた<br>異世界の武具　源氏シリーズ
+$CHADL_QST_07_0100_0700_00_chd,Chadley,And the legendary swordsman who’s pursued it all this time—,それを探し続けてきた　伝説の剣豪
+$CHADL_QST_07_0100_0710_00_chd,Chadley,Everything should now be gathered on this island.,いま　すべてがこの島に集結しているはずです
+$CHADL_QST_07_0100_0800_00_chd,Chadley,"Cloud,<br>I’m counting on you for this final investigation!",クラウドさん<br>最後の調査をよろしくお願いします！
+$CHADL_QST_07_0200_0200_00_gil,Gilgamesh,"Come, come, come!",さあ　さあ　さあ！
+$CHADL_QST_07_0200_0300_00_gil,Gilgamesh,Our meeting here is a hundred years in the making!<br>I’ve longed for this day through countless ages!,ここで会ったが百年目<br>この日を待ち焦がれて幾星霜！
+$CHADL_QST_07_0200_0400_00_gil,Gilgamesh,I am the swordmaster Gilgamesh!,我が名は　剣豪ギルガメッシュ！
+$CHADL_QST_07_0200_0500_00_gil,Gilgamesh,"My Genji, stolen by thieves,<br>I shall now reclaim it!",賊に奪われし我が源氏<br>いまこそ　もらい受け～る～！
+$CHADL_QST_07_0200_0710_00_gil,Gilgamesh,"My once-beautiful, noble Genji—<br>now tattered and worn to rags!",美しく凛々しかった我が源氏が<br>おんぼろの　ボロボロではないか！
+$CHADL_QST_07_0200_0800_00_gil,Gilgamesh,Did none of ye ever maintain it!,おぬしら　誰も手入れをせんかったのか！
+$CHADL_QST_07_0200_0900_00_art,Aerith,"Well, we kinda just left it lying around.",だいたい　放ってあったけど
+$CHADL_QST_07_0200_1000_00_gil,Gilgamesh,Grr…<br>Fools who know not the value of things!,ぐぬぬ……<br>ものの価値もわからぬ痴れ者どもが
+$CHADL_QST_07_0200_1100_00_gil,Gilgamesh,"Oh, there, there, poor things.<br>I’ll restore ye straightaway!",おお　よしよし　可哀想になあ<br>すぐに修復してやるからな
+$CHADL_QST_07_0200_1200_00_gil,Gilgamesh,The final battle shall wait a while.,決戦は　しばしおあずけだ
+$CHADL_QST_07_0200_1210_00_gil,Gilgamesh,"Now, I shall perform the Rite of Reforging!",これより　鍛えの儀を執り行う！
+$CHADL_QST_07_0200_1300_00_yfi,Yuffie,"Oh, you thief!",ああ　ドロボー！
+$CHADL_QST_07_0200_1400_00_gil,Gilgamesh,Hah-hah-hah!<br>The true thieves be ye!,はーっはっは！<br>盗人は　おぬしらだろう
+$CHADL_QST_07_0200_1500_00_gil,Gilgamesh,"Moreover, ye shall atone for the sin<br>of neglecting my Genji’s care!",そのうえ　我が源氏の手入れを怠った罪<br>償ってもらうぞ！
+$CHADL_QST_07_0200_1600_00_cld,Cloud,We’ll reforge it ourselves.,俺たちが　鍛え直してやろう
+$CHADL_QST_07_0200_1610_00_cld,Cloud,"And of course, the Genji’s ours.",もちろん　源氏は俺たちがもらう
+$CHADL_QST_07_0200_1700_00_gil,Gilgamesh,Thou forgettest the duel with me!,我との決戦を忘れておる
+$CHADL_QST_07_0200_1800_00_cld,Cloud,We’ll win. Obviously.,当然　勝つ
+$CHADL_QST_07_0200_1900_00_gil,Gilgamesh,Hah-hah-hah!<br>Boastful words from the ignorant!,はーっはっはっ！<br>身のほど知らずが　ほざくほざく
+$CHADL_QST_07_0200_2000_00_gil,Gilgamesh,"Very well, out of a warrior’s mercy—",よかろう　武士の情けだ
+$CHADL_QST_07_0200_2200_00_gil,Gilgamesh,"Then traverse the forges,<br>and with the heat of battle, reforge the Genji!",んでは　鍛えの社をめぐり<br>戦の熱を用いて　源氏を鍛え直すのだ！
+$CHADL_QST_07_0200_2300_00_gil,Gilgamesh,"The fiercer ye fight,<br>the stronger and more radiant the Genji shall revive!",おぬしらが激しく戦うほどに<br>源氏はより強く　鮮やかに蘇る
+$CHADL_QST_07_0200_2400_00_gil,Gilgamesh,"Now, warriors all,<br>fight to thy heart’s content!",さあ　闘う者達よ<br>存分に戦うがよい！
+$CHADL_QST_07_0300_0100_00_chd,Chadley,Cloud—,クラウドさん
+$CHADL_QST_07_0300_0110_00_chd,Chadley,Please continue reforging the Genji series!,引き続き　源氏シリーズの鍛え直しを<br>お願いします！
+$CHADL_QST_07_0300_0200_00_chd,Chadley,Cloud—,クラウドさん
+$CHADL_QST_07_0300_0210_00_chd,Chadley,Gilgamesh is waiting in the garden.<br>Let’s hurry!,ギルガメッシュさんが庭園でお待ちかねです<br>急ぎましょう
+$CHADL_QST_07_0300_0300_00_chd,Chadley,The adventure surrounding the Ancient Materia nears its climax.<br>I’m counting on you!,エンシェントマターをめぐる冒険も大詰めです<br>よろしくお願いします！
+$CHADL_QST_07_0400_0100_00_gil,Gilgamesh,The Rite of Reforging begins!,鍛えの儀　はじめ！
+$CHADL_QST_07_0600_0100_00_gil,Gilgamesh,The Rite of Reforging begins!,鍛えの儀　はじめ！
+$CHADL_QST_07_0800_0100_00_gil,Gilgamesh,The Rite of Reforging begins!,鍛えの儀　はじめ！
+$CHADL_QST_07_1000_0100_00_red,Red XIII,Just two more!,あと　２つだね！
+$CHADL_QST_07_1100_0100_00_yfi,Yuffie,Next one’s the last!,次で最後だ！
+$CHADL_QST_07_1200_0100_00_art,Aerith,"That’s everything, right?",これでぜんぶ　かな
+$CHADL_QST_07_1200_0200_00_gil,<i>Gilgamesh</i>,"<i>Well done, all of ye!</i>",<i>よくやったぞ　みなの者！</i>
+$CHADL_QST_07_1200_0210_00_gil,<i>Gilgamesh</i>,<i>The revived Genji tremble with joy!</i>,<i>蘇った源氏たちが　喜びに打ち震えておるわ</i>
+$CHADL_QST_07_1200_0300_00_gil,<i>Gilgamesh</i>,"<i>With this, the Rite of Reforging is complete!</i>",<i>鍛えの儀も　これにて仕舞いじゃ</i>
+$CHADL_QST_07_1200_0310_00_gil,<i>Gilgamesh</i>,"<i>As a reward, I invite ye all<br>to my garden!</i>",<i>ほうびとして　そなたたちを<br>我が庭園に招待しよう</i>
+$CHADL_QST_07_1200_0400_00_gil,<i>Gilgamesh</i>,"<i>Hah-hah-hah!<br>I await thee, mighty warriors!</i>",<i>ハッハッハッ！<br>待っているぞ　つわものたちよ</i>
+$CHADL_QST_07_1300_0100_00_gil,Gilgamesh,What of the Rite of Reforging?,鍛えの儀はどうした？
+$CHADL_QST_07_1300_0110_00_gil,Gilgamesh,This place opens not until all Genji are revived!,すべての源氏を蘇らせるまでは　ここは開けんぞ
+$CHADL_QST_07_1300_0200_00_gil,Gilgamesh,"If thou wouldst enter, complete the Rite of Reforging first!",中に入りたくば　鍛えの儀をこなしてくるのだ
+$CHADL_QST_07_1300_0300_00_gil,Gilgamesh,Keep not my Genji waiting!,我が源氏を待たせるでない！
+$CHADL_QST_07_1400_0100_00_gil,Gilgamesh,No need to hold back!<br>Come right on in to the depths!,遠慮はいらんぞ<br>ずずずい～っと　奥まで来るがよい！
+$CHADL_QST_07_1500_0100_00_gil,Gilgamesh,"Wandering, waking alone, a cuckoo calls.",彷徨いて　寝起きて独り　閑古鳥
+$CHADL_QST_07_1500_0110_00_gil,Gilgamesh,Where am I? A butterfly’s dream?,ここは何処か　胡蝶の夢か
+$CHADL_QST_07_1500_0200_00_gil,Gilgamesh,"Forlorn, yearning for Genji, a nightjar cries.",うら寂し　源氏焦がれし　呼子鳥
+$CHADL_QST_07_1500_0210_00_gil,Gilgamesh,Who am I? A mist at dusk?,余は何者か　迷ふ夕霧か
+$CHADL_QST_07_1500_0300_00_gil,Gilgamesh,"Yet now the Genji are gathered, they shall shine!",なれども源氏　そろいていまし　光ささん！
+$CHADL_QST_07_1500_0400_00_gil,Gilgamesh,Gilgamesh Chaaaange!,ギルガメッシュ・チェーーーンジ！
+$CHADL_QST_07_1500_0510_00_gil,Gilgamesh,All of it… I’ve remembered it all!,すべて　すべて思い出したぞ！
+$CHADL_QST_07_1500_0600_00_gil,Gilgamesh,"Who I am, whence I came,<br>and why I wander the dimensions!",我が何者で　どこから来たか<br>どうして次元を彷徨っているのか
+$CHADL_QST_07_1500_0700_00_gil,Gilgamesh,"Oh, I cannot linger here!<br>I must return to my nemesis at once!",ああ　こうしてはおれん<br>いますぐ　我が宿敵の元へ戻らねば！
+$CHADL_QST_07_1500_0800_00_gil,Gilgamesh,"Farewell, then!",では　さらば！
+$CHADL_QST_07_1500_0900_00_blt,Barret,"Hey, wait up!<br>You’re just leaving?",おい　待て待て<br>帰んのかよ！
+$CHADL_QST_07_1500_1000_00_gil,Gilgamesh,But first…,そのまえに……
+$CHADL_QST_07_1500_1010_00_gil,Gilgamesh,We must settle this!,決着をつけねばならんの
+$CHADL_QST_07_1500_1100_00_gil,Gilgamesh,"In a thousand worlds, only one<br>may bear the title of legendary swordsman!",幾千の世界　剣豪を名乗るのは<br>ひとりでよし
+$CHADL_QST_07_1500_1110_00_gil,Gilgamesh,That fated blade thou bearest—hand it over!,おぬしが背負いし宿命の剣　いただこうか！
+$CHADL_QST_07_1500_1200_00_gil,Gilgamesh,"Come, give me the Buster Sword!",さあ　バスターソードをよこせ！
+$CHADL_QST_07_1500_1300_00_cld,Cloud,No.,断る
+$CHADL_QST_07_1500_1400_00_gil,Gilgamesh,"Now, let us duel honorably!",いざ　尋常に勝負！
+$CHADL_QST_07_1550_0300_00_gil,Gilgamesh,‘Tis not Excalibur!,エクスカリバーじゃな～い！
+$CHADL_QST_07_1550_0310_00_gil,Gilgamesh,"‘Tis Excali-poor, is it not!",エクスカリ“パー”ではないか！
+$CHADL_QST_07_1550_0400_00_gil,Gilgamesh,"Well, no matter!",まあいいか
+$CHADL_QST_07_1550_0410_00_gil,Gilgamesh,A true swordsman chooses not his weapon!,剣豪は　得物を選ばず
+$CHADL_QST_07_1550_0500_00_gil,Gilgamesh,"Come at me, then!",さあ　かかってきやがれ～！
+$CHADL_QST_07_1600_0100_00_gil,Gilgamesh,Splendid!,あっぱれ！
+$CHADL_QST_07_1600_0200_00_cld,Cloud,Satisfied now?,気が済んだか
+$CHADL_QST_07_1600_0300_00_gil,Gilgamesh,Hmph. I merely spare thee this time!,ふん　今回は見逃してやるだけだ
+$CHADL_QST_07_1600_0400_00_gil,Gilgamesh,The title of this world’s legendary swordsman<br>I shall entrust to thee!,この世界の　伝説の剣豪の名は<br>おぬしに預けるとしよう
+$CHADL_QST_07_1600_0500_00_cld,Cloud,Legendary swordsman…,伝説の剣豪……
+$CHADL_QST_07_1600_0600_00_cld,Cloud,"No, I still have<br>someone I need to surpass.",いや　俺にはまだ<br>越えるべき相手がいる
+$CHADL_QST_07_1600_0700_00_gil,Gilgamesh,"A nemesis awaits thee, eh?",宿敵が待っているというわけか
+$CHADL_QST_07_1600_0800_00_gil,Gilgamesh,Then I cannot yield the Genji!,ならば　源氏は渡せんのう
+$CHADL_QST_07_1600_0810_00_gil,Gilgamesh,"First, thou must defeat that nemesis of thine!",まずはおぬしが　その宿敵を倒すのが先だ
+$CHADL_QST_07_1600_0900_00_gil,Gilgamesh,"After that, we’ll have another bout,<br>no holds barred!",そのあと　手加減なしで<br>もうひと勝負してやろう
+$CHADL_QST_07_1600_1000_00_cld,Cloud,It’ll cost you.,高くつくぞ
+$CHADL_QST_07_1600_1100_00_gil,Gilgamesh,"I, too, have nemeses awaiting me across many worlds.<br>‘Tis time I took my leave!",我も　方々の世界で宿敵を待たせている<br>そろそろ　おいとまするとしようか
+$CHADL_QST_07_1600_1200_00_gil,Gilgamesh,Er…,え～っと……
+$CHADL_QST_07_1600_1300_00_art,Aerith,Forgot the way back?,帰り道　忘れちゃった？
+$CHADL_QST_07_1600_1400_00_gil,Gilgamesh,Nonsense! I am the wanderer of time and space!,まさか　我こそは時空の風来坊！
+$CHADL_QST_07_1600_1500_00_gil,Gilgamesh,I’ve crossed countless worlds!<br>Leaping dimensions is child’s play!,渡り歩いた世界は数知れず<br>次元を越えることなど造作もないわ！
+$CHADL_QST_07_1600_1600_00_gil,Gilgamesh,Er…,え～っと……
+$CHADL_QST_07_1600_1700_00_chd,Chadley,Shall I assist you?,お手伝いしましょうか？
+$CHADL_QST_07_1600_1800_00_gil,Gilgamesh,"Oh, that lad from before!",おお　いつかの小童！
+$CHADL_QST_07_1600_1900_00_chd,Chadley,"Using the interdimensional data I’ve collected,<br>along with pattern analysis of magnetic distortions—",これまでに収集した異空間データ　および<br>磁場の乱れをパターン解析
+$CHADL_QST_07_1600_2000_00_chd,Chadley,Measuring spacetime curvature and gravitational waves—,時空の曲率　重力波を計測
+$CHADL_QST_07_1600_2100_00_gil,Gilgamesh,What strange sorcery…,これはまた面妖な……
+$CHADL_QST_07_1600_2200_00_chd,Chadley,"Gilgamesh,<br>I’ve located a rift—over there!",ギルガメッシュさん<br>亀裂を発見しました　あそこです！
+$CHADL_QST_07_1600_2300_00_gil,Gilgamesh,"Oh, I see it now!",おお　あいわかった！
+$CHADL_QST_07_1600_2400_00_gil,Gilgamesh,"Thou hast saved me, lad!",助かったぞ　小童！
+$CHADL_QST_07_1600_2500_00_chd,Chadley,"Thanks to you, Gilgamesh,<br>I obtained valuable data—",ギルガメッシュさんには<br>貴重なデータをとらせていただいたので
+$CHADL_QST_07_1600_2510_00_chd,Chadley,This is my thanks.,そのお礼です
+$CHADL_QST_07_1600_2600_00_gil,Gilgamesh,"This is farewell, ye mighty warriors!",これでお別れだ　つわものたちよ
+$CHADL_QST_07_1600_2700_00_gil,Gilgamesh,"If fate permits,<br>we may cross paths again somewhere!",運命が許せば<br>またどこかで相まみえることもあるだろう
+$CHADL_QST_07_1600_2710_00_gil,Gilgamesh,"Until then, fare thee well!",それまで　達者でな
+$CHADL_QST_07_1600_2800_00_gil,Gilgamesh,"For now, this is the end!",まず　今日は　これ～ぎ～り～！
+$CHADL_QST_07_1600_2900_00_gil,Gilgamesh,"Wait for me, Warriors of Light!",待っていろよ　光の戦士！
+$CHADL_QST_07_1600_3000_00_chd,Chadley,"He was lively to the very end, wasn’t he?",最後まで　にぎやかでしたね
+$CHADL_QST_07_1600_3100_00_cld,Cloud,Yeah. Weird guy.,ああ　変なヤツだ
+$CHADL_QST_07_1600_3300_00_chd,Chadley,"Now, without further ado—",では　早速ですが
+$CHADL_QST_07_1600_3400_00_chd,Chadley,"Thanks to Gilgamesh,<br>we’ve acquired otherworldly data!",ギルガメッシュさんのおかげで<br>異世界のデータを入手できました
+$CHADL_QST_07_1600_3500_00_chd,Chadley,It should prove useful in various fields!,様々な分野で活用できそうです！
+$CHADL_QST_07_1600_3600_00_chd,Chadley,"First, I’ve created a summoning materia.",まずは　召喚マテリアを生成しました
+$CHADL_QST_07_1600_3700_00_chd,Chadley,The Sword God’s strikes should aid Cloud<br>in a pinch with some lively flair!,剣神の斬撃が　クラウドさんのピンチを<br>にぎやかに助けてくれるはずです
+$CHADL_QST_07_1600_3800_00_chd,Chadley,"Also, I’ve turned the Ancient Materia analysis data<br>into crafting chips.",それと　エンシェントマターの解析データを<br>クラフトチップ化しました
+$CHADL_QST_07_1600_3900_00_chd,Chadley,"With these, you should be able to restore the Genji series.<br>Please take a look!",これで　源氏シリーズを復元できると思います<br>ぜひ確認してみてください
+$CHADL_QST_07_1600_4000_00_chd,Chadley,"With this, the adventure surrounding the Ancient Materia<br>comes to an end.",これで　エンシェントマターをめぐる冒険は<br>おしまいです
+$CHADL_QST_07_1600_4100_00_chd,Chadley,"But as long as mysteries remain in this world,<br>our journey of discovery continues!",ですが　世界に謎が尽きないかぎり<br>探求の旅は　まだまだ続きます
+$CHADL_QST_07_1600_4200_00_chd,Chadley,"Cloud,<br>I’ll be counting on you going forward!",クラウドさん<br>この先も　よろしくお願いします！
+$CHADL_QST_07_1600_4300_00_cld,Cloud,You’re a weird one too.,おまえも　変なヤツだ
+$TEMPL_BOS_19_1100_0100_00_cld,Cloud,Can we use this pillar?,この柱　利用できないか？
+$TEMPL_BOS_19_1100_0200_00_blt,Barret,"Oi, let’s smash this pillar!",おい　この柱ぶっ壊すぞ！
+$TEMPL_BOS_19_1100_0300_00_art,Aerith,How about we knock this pillar down?,この柱　倒しちゃおっか
+$TEMPL_BOS_19_1100_0400_00_tif,Tifa,Let’s topple the pillar and hit ‘em with it!,柱を倒して　ぶつけよう！
+$TEMPL_BOS_19_1100_0500_00_red,Red XIII,We might be able to bring this pillar down now.,いまなら　柱を倒せるかも
+$TEMPL_BOS_19_1100_0600_00_yfi,Yuffie,The pillar’s all red-hot!,柱　まっかっか！
+$TEMPL_BOS_20_1100_0100_00_cld,Cloud,Interesting.,おもしろい
+$TEMPL_BOS_20_1100_0200_00_cld,Cloud,They’re putting up a fight.,やってくれるな
+$TEMPL_BOS_20_1100_0300_00_tif,Tifa,I’ll aim for a counter!,カウンターを狙う！
+$TEMPL_BOS_20_1100_0400_00_tif,Tifa,"Next time, I’ll time it perfectly!",次こそ　合わせてみせる！
+$TEMPL_BOS_20_1100_0500_00_blt,Barret,"Damn it, I’ll pay ‘em back!",くそ　やり返すまでよ！
+$TEMPL_BOS_20_1100_0600_00_blt,Barret,Hah! I’ll give it back double!,ハッ　倍にして返してやるぜ！
+$TEMPL_BOS_20_1100_0700_00_tif,Tifa,Here it comes again!,また来るよ！
+$TEMPL_BOS_20_1100_0800_00_tif,Tifa,We’ve got to stop it somehow!,なんとかして止めなきゃ！
+$TEMPL_BOS_20_1100_0900_00_blt,Barret,Gotta take these punks out first!,こいつらを先に落とさねえと！
+$TEMPL_BOS_20_1100_1000_00_blt,Barret,More zappy crap again!,また　ビリビリか！
+$TEMPL_BOS_20_1100_1500_00_ren,Reno,Ready?,準備はいいか
+$TEMPL_BOS_20_1100_1600_00_ren,Reno,Here it goes!,飛ばすぞ　と！
+$TEMPL_BOS_20_1100_1700_00_ren,Reno,"Ready, set, go!",よーい　ドン！
+$TEMPL_BOS_20_1100_1800_00_lud,Rude,Reno!,レノ！
+$TEMPL_BOS_20_1100_1900_00_lud,Rude,Here we go!,いくぞ！
+$TEMPL_BOS_20_1100_2000_00_lud,Rude,Capture ‘em!,捕らえる！
+$TEMPL_BOS_20_1100_2100_00_ren,Reno,Haaah!,はああっ！
+$TEMPL_BOS_20_1100_2101_00_ren,Reno,Hmph!,ふんっ！
+$TEMPL_BOS_20_1100_2102_00_ren,Reno,Take that!,たあっ！
+$TEMPL_BOS_20_1100_2200_00_ren,Reno,Eat this!,くらえ！
+$TEMPL_BOS_20_1100_2300_00_lud,Rude,Haaah!,はああっ！
+$TEMPL_BOS_20_1100_2301_00_lud,Rude,Take that!,たあっ！
+$TEMPL_BOS_20_1100_2302_00_lud,Rude,Oryaa!,おりゃあ！
+$TEMPL_BOS_20_1100_2400_00_lud,Rude,Sink ‘em!,沈め！
+$TEMPL_BOS_20_1100_2500_00_cld,Cloud,Interesting.,おもしろい
+$TEMPL_BOS_20_1100_2600_00_cld,Cloud,They’re putting up a fight.,やってくれるな
+$TEMPL_BOS_20_1100_2700_00_tif,Tifa,We’ve got to do something!,どうにかしないと
+$TEMPL_BOS_20_1100_2800_00_tif,Tifa,"Hang on, I’ll help you out!",すぐに助けるから！
+$TEMPL_BOS_20_1100_2900_00_blt,Barret,I ain’t lettin’ this go on any longer!,これ以上やらせっか！
+$TEMPL_BOS_20_1100_3000_00_blt,Barret,"Damn it, I won’t forgive ‘em!",ちくしょう　許さねえ！
+$TEMPL_BOS_20_1100_3100_00_lud,Rude,Don’t panic.,慌てるな
+$TEMPL_BOS_20_1100_3200_00_lud,Rude,"We got this, right?",いけるな？
+$TEMPL_BOS_20_1100_3300_00_ren,Reno,"Watch out, yo!",危ないぞ　と
+$TEMPL_BOS_20_1100_3400_00_ren,Reno,This good enough for ya?,こんな感じでいっか？
+$TEMPL_BOS_21_1100_0100_00_tsu,Tseng,"Aerith, come quietly—",エアリス　おとなしく──
+$TEMPL_BOS_21_1100_0200_00_art,Aerith,No way!,しません！
+$TEMPL_BOS_21_1100_0300_00_tsu,Tseng,It’s my job. I’m getting serious now.,仕事だ　本気でいくぞ
+$TEMPL_BOS_21_1100_0400_00_eln,Elena,"Boss, focus!",主任　集中！
+$TEMPL_BOS_21_1100_0500_00_art,Aerith,Gotta hand it to the Turks—perfect teamwork!,さすがタークス　息ぴったり
+$TEMPL_BOS_21_1100_0600_00_red,Red XIII,Let’s take ‘em both down together!,ふたりまとめて　やっちゃおう！
+$TEMPL_BOS_21_1100_0700_00_yfi,Yuffie,Can’t we just knock ‘em both out at once?,あいつら　いっしょに崩せないかな？
+$TEMPL_BOS_21_1100_0800_00_art,Aerith,Watch out for Tseng’s attacks!,ツォンの攻撃　気をつけて！
+$TEMPL_BOS_21_1100_0900_00_red,Red XIII,Can you tell if we should dodge or guard?,避けるか守るか　見極められる？
+$TEMPL_BOS_21_1100_1000_00_yfi,Yuffie,Run around if it gets dicey!,危ないときは　逃げまわって！
+$TEMPL_BOS_21_1100_1100_00_art,Aerith,Sorry!,ごめん！
+$TEMPL_BOS_21_1100_1200_00_art,Aerith,Take a breather!,休んでて！
+$TEMPL_BOS_21_1100_1300_00_red,Red XIII,Let’s do this!,やっちゃおう！
+$TEMPL_BOS_21_1100_1400_00_red,Red XIII,Now’s our chance!,いまだ！
+$TEMPL_BOS_21_1100_1500_00_yfi,Yuffie,Take that!,ざまみろっ！
+$TEMPL_BOS_21_1100_1600_00_yfi,Yuffie,How’s that!,ど～だっ！
+$TEMPL_BOS_21_1100_1700_00_art,Aerith,I’m never giving up!,絶対　あきらめないから
+$TEMPL_BOS_21_1100_1800_00_art,Aerith,We’ve gotta do something!,なんとかしなきゃ！
+$TEMPL_BOS_21_1100_1900_00_red,Red XIII,I’m fired up now!,オイラ　燃えてきた～！
+$TEMPL_BOS_21_1100_2000_00_red,Red XIII,I’m not running away!,オイラは逃げない！
+$TEMPL_BOS_21_1100_2100_00_yfi,Yuffie,I’ll beat ‘em to a pulp!,ボッコボコにしてやる！
+$TEMPL_BOS_21_1100_2200_00_yfi,Yuffie,Time to show ‘em Wutai’s pride!,ウータイの意地　見せたげる！
+$TEMPL_BOS_21_1100_2500_00_eln,Elena,Tseng!,ツォンさん！
+$TEMPL_BOS_21_1100_2600_00_eln,Elena,Boss!,主任！
+$TEMPL_BOS_21_1100_2700_00_eln,Elena,"Boss, please!",主任　お願いします！
+$TEMPL_BOS_21_1100_2800_00_tsu,Tseng,"Fine, I’ll show you.",ああ　見せてやろう
+$TEMPL_BOS_21_1100_2900_00_tsu,Tseng,Follow me.,ついてこい
+$TEMPL_BOS_21_1100_3000_00_tsu,Tseng,We go together.,ともにいくぞ
+$TEMPL_BOS_21_1100_3100_00_tsu,Tseng,Elena!,イリーナ！
+$TEMPL_BOS_21_1100_3200_00_tsu,Tseng,"Elena, you ready?",イリーナ　やれるな？
+$TEMPL_BOS_21_1100_3300_00_tsu,Tseng,"Elena, let’s do this!",イリーナ　いくぞ！
+$TEMPL_BOS_21_1100_3400_00_eln,Elena,"Y-Yes, sir!",はっ……はい！
+$TEMPL_BOS_21_1100_3500_00_eln,Elena,I’m good!,いけます！
+$TEMPL_BOS_21_1100_3600_00_eln,Elena,Leave it to me!,おまかせを！
+$TEMPL_BOS_21_1100_3700_00_eln,Elena,I’ll take ‘em out!,仕留める！
+$TEMPL_BOS_21_1100_3800_00_eln,Elena,I’ll finish it!,キメる！
+$TEMPL_BOS_21_1100_3900_00_eln,Elena,I’ll get it done!,やりとげる！
+$TEMPL_BOS_21_1100_4000_00_tsu,Tseng,Resistance is futile.,抵抗は無駄だ
+$TEMPL_BOS_21_1100_4100_00_tsu,Tseng,You prepared for this?,覚悟はいいな？
+$TEMPL_BOS_21_1100_4200_00_tsu,Tseng,Let’s end it.,仕留めよう
+$TEMPL_BOS_22_1100_0100_00_art,Aerith,Is this place getting narrower?,ここ　狭くなってる？
+$TEMPL_BOS_22_1100_0200_00_blt,Barret,"Hey, hey, ain’t this bad news?",おいおい　ヤバいんじゃねーか？
+$TEMPL_BOS_22_1100_0300_00_tif,Tifa,If this keeps up…,このままじゃ……
+$TEMPL_BOS_22_1100_0400_00_yfi,Yuffie,That’s cheap!,ずっこい！
+$TEMPL_BOS_22_1100_0500_00_red,Red XIII,Give me a break!,カンベンしてよ～
+$TEMPL_BOS_22_1100_0600_00_art,Aerith,Planning to move the walls again?,また壁　動かすつもり？
+$TEMPL_BOS_22_1100_0700_00_blt,Barret,Let’s smash ‘em quick!,とっととブチのめす！
+$TEMPL_BOS_22_1100_0800_00_tif,Tifa,We’ve got to stop it somehow!,なんとかして止めなきゃ！
+$TEMPL_BOS_22_1100_0900_00_yfi,Yuffie,Spare meee!,かんべ～ん！
+$TEMPL_BOS_22_1100_1000_00_red,Red XIII,Let’s take ‘em out before they get us!,やられるまえに　やっちゃおう！
+$TEMPL_BOS_22_1100_1100_00_art,Aerith,Did the walls slow down a bit?,壁　ゆっくりになった？
+$TEMPL_BOS_22_1100_1200_00_blt,Barret,Piece o’ cake now!,余裕だな　こりゃ！
+$TEMPL_BOS_22_1100_1300_00_tif,Tifa,Looks like it’s working!,効いてるみたい！
+$TEMPL_BOS_22_1100_1400_00_yfi,Yuffie,"Take that, losers!",ざまあみろ～！
+$TEMPL_BOS_22_1100_1500_00_red,Red XIII,Nice work!,うまくいったね！
+$TEMPL_BOS_22_1100_1600_00_art,Aerith,No more room to run!,もう逃げ場　ないよ！
+$TEMPL_BOS_22_1100_1700_00_blt,Barret,One more hit and they’re done!,次が来たら　終わるぞ
+$TEMPL_BOS_22_1100_1800_00_tif,Tifa,What do we do…?,どうしよう……
+$TEMPL_BOS_22_1100_1900_00_yfi,Yuffie,"This ain’t looking good, huh?",これ　ヤバくない？
+$TEMPL_BOS_22_1100_2000_00_red,Red XIII,We’ve gotta hold out!,持ちこたえなきゃ！
