@@ -5,9 +5,9 @@ These files are useless on their own and will not package nicely into the game a
 
 I feel enough information should be here to cross reference. The file is split into four columns: `id,name,text,text_jp`
 
-`id`: This is the id of the subtitle
-`name`: this is the name of the actor that is speaking
-`text`: this is the English translation
+`id`: This is the id of the subtitle\
+`name`: this is the name of the actor that is speaking\
+`text`: this is the English translation\
 `text_jp`: this is the original japanese text
 
 The files have been sorted by `id` so they should be what appears in order of how the game with display them (for main quests at least).
